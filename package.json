@@ -2,6 +2,7 @@
   "name": "bienvenidosalparty",
   "version": "1.0.0",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build-css": "node-sass --include-path scss scss/main.scss css/main.css",
@@ -11,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^7.0.1",
     "nodemon": "^2.0.19"
   },
   "devDependencies": {},

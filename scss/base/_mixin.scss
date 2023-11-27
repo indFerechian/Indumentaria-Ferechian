@@ -1,7 +1,0 @@
-/* mixin */
-@mixin flex ($dis, $dir, $flow, $aling, $just) {
-    display: $dis;
-    flex-flow: $dir $flow;
-    align-items: $aling;
-    justify-content: $just;
-}
