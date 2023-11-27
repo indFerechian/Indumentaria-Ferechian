@@ -133,7 +133,7 @@ body {
         display: grid;
     }
     .nav__links {
-        background-image: url("../Images/azulado\ 2.png");
+        background-image: url("../Images/azulado2.png");
         background-size: cover;
         background-position: center center;
         background-attachment: fixed; /* Mantiene la imagen fija en el centro */
