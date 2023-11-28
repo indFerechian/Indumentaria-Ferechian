@@ -25,15 +25,7 @@ body {
     width:150px; 
     height:150px;
 } */
-.body {
-    background-image: url("../images/fondo.jpg");
-    /* background: red; */
-    position: center;
-    background-size: cover;
-    background-position: center center;
-    background-attachment: fixed; /* Mantiene la imagen fija en el centro */
-    height: auto;
-}
+
 .container {
     margin: 0 auto;
     width: 90%;
@@ -50,6 +42,8 @@ body {
     flex-direction: column;
     background-image: url("../images/fondo.jpg");
     background-size: cover;
+    background-position: center center;
+    background-attachment: fixed; /* Mantiene la imagen fija en el centro */
     min-height: 300px;
     height: 100vh;
 }
