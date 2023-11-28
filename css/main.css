@@ -25,6 +25,15 @@ body {
     width:150px; 
     height:150px;
 } */
+.body {
+    background-image: url("../images/fondo.jpg");
+    /* background: red; */
+    position: center;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed; /* Mantiene la imagen fija en el centro */
+    height: auto;
+}
 .container {
     margin: 0 auto;
     width: 90%;
@@ -32,7 +41,8 @@ body {
     overflow: hidden;
 }
 .logoImg{
-    width: 250px;
+    height: 200px;
+    width: 200px;
 }
 
 .hero {
