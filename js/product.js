@@ -174,10 +174,9 @@ function getProductById(productId) {
 function renderProduct(product) {
     const productContainer = document.getElementById("productContainer");
 
-    productContainer.style.backgroundImage = `url('${product.img}')`;
-    productContainer.style.backgroundSize = "contain";
-    productContainer.style.backgroundRepeat = "no-repeat";
-    productContainer.style.backgroundPosition = "center";
+    const img = document.createElement("img");
+    img.src = product.img;
+    img.alt = product.title;
 
     const title = document.createElement("h2");
     title.textContent = product.title;
@@ -194,13 +193,14 @@ function renderProduct(product) {
     whatsapp.href = product.whatsapp;
 
     const whatsappButton = document.createElement("img");
-    whatsappButton.src = "./images/logowhatsapp.webp"; // Reemplaza con la URL correcta
+    whatsappButton.src = "../Images/logowhatsapp.webp"; // Reemplaza con la URL correcta
     whatsappButton.alt = "WhatsApp";
     whatsappButton.style.width = "50px"; // Establece el ancho a 20px
     whatsappButton.style.height = "50px"; // Establece la altura a 20px
 
     // Agregar elementos al contenedor del producto
     productContainer.appendChild(title);
+    productContainer.appendChild(img);
     productContainer.appendChild(description);
     whatsapp.appendChild(whatsappButton);
     productContainer.appendChild(whatsapp);

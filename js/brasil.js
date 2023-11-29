@@ -2,7 +2,7 @@ const products = [
     {
         title: "products",
         description: "este es el producto",
-        img: "./images/azulado.jpg",
+        img: "../images/azulado.jpg",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 1,
         category: "brasil"
@@ -10,7 +10,7 @@ const products = [
     {
         title: "products",
         description: "este es el producto",
-        img: "./public/products/product1",
+        img: "../public/products/product1",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 2
         
@@ -18,21 +18,21 @@ const products = [
     {
         title: "products",
         description: "este es el producto",
-        img: "./public/products/product1",
+        img: "../public/products/product1",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 3
     },
     {
         title: "products",
         description: "este es el producto",
-        img: "./public/products/product1",
+        img: "../public/products/product1",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 4
     },
     {
         title: "products",
         description: "este es el producto",
-        img: "./public/products/product1",
+        img: "../public/products/product1",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 5
     },

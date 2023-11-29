@@ -185,10 +185,9 @@ function renderProducts() {
         productDiv.dataset.index = index;
 
         // Configurar el fondo del div directamente
-        productDiv.style.backgroundImage = `url('${product.img}')`;
-        productDiv.style.backgroundSize = 'cover';
-        productDiv.style.backgroundPosition = 'center';
-        productDiv.style.backgroundRepeat = 'no-repeat';
+        const img = document.createElement("img");
+    img.src = product.img;
+    img.alt = product.title;
 
         const checkbox = document.createElement("input");
         checkbox.type = "checkbox";

@@ -25,6 +25,28 @@ body {
     width:150px; 
     height:150px;
 } */
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.hero {
+    position: relative;
+    overflow: hidden;
+}
+
+.fondo__Img {
+    width: 150%; /* Aumenta el ancho para compensar el desplazamiento lateral */
+    height: 100%;
+    object-fit: cover;
+    object-position: 70% center; /* Ajusta la posición de la imagen */
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
 
 .container {
     margin: 0 auto;
@@ -32,22 +54,18 @@ body {
     max-width: 1200px;
     overflow: hidden;
 }
-.logoImg{
+.logoImg {
     position: absolute;
-    left:0;
-    top:0;
+    left: 0;
+    top: 0;
     height: 200px;
     width: 200px;
 }
-.fondo__Img{
-    background-size: cover;
-    background-position: center center;
+.fondo__Img {
     background-attachment: fixed; /* Mantiene la imagen fija en el centro */
+    background: cover; /* Mantiene la imagen fija en el centro */
     width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
-    position: absolute;
+    height: 100;
     top: 0;
     left: 0;
     z-index: -1;
@@ -144,15 +162,18 @@ body {
 
 /* media */
 @media (max-width: 768px) {
-    #nav{
+    #nav {
         display: grid;
     }
-    .nav__links {
-        background-image: url("../Images/azulado2.png");
-        background-size: cover;
-        background-position: center center;
-        background-attachment: fixed; /* Mantiene la imagen fija en el centro */
+    .nav__links img {
+        width: 100%; /* Aumenta el ancho para compensar el desplazamiento lateral */
         height: 100vh;
+        object-fit: cover;
+        object-position: 100% center; /* Ajusta la posición de la imagen */
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
     }
 }
 @media (min-width: 768px) {
@@ -227,14 +248,14 @@ body {
 
 /* mixin */
 /* -------------------------------------------- */
-.contentProduct{
+.contentProduct {
     background-color: black;
-    margin-top:-100px;
+    margin-top: -100px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
-.product{
+.product {
     border-radius: 15px;
     display: flex;
     background: white;
@@ -245,8 +266,6 @@ body {
     justify-content: flex-end;
     align-items: center;
 }
-
-
 
 /* Estilos por defecto para el producto */
 .product {
@@ -259,5 +278,7 @@ body {
 /* Efecto hover para el producto */
 .product.checked:hover {
     position: center;
-    transform: scale(2.2); /* Hacemos que el producto se agrande al hacer hover */
+    transform: scale(
+        2.2
+    ); /* Hacemos que el producto se agrande al hacer hover */
 }
