@@ -165,10 +165,9 @@ html {
     #nav {
         display: grid;
     }
-    .nav__links img {
+    .img__hamburguer {
         width: 100%; /* Aumenta el ancho para compensar el desplazamiento lateral */
         height: 100vh;
-        object-fit: cover;
         object-position: 85% center; /* Ajusta la posición de la imagen */
         position: absolute;
         top: 0;
