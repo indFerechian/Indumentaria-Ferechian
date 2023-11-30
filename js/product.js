@@ -208,11 +208,9 @@ function renderProduct(product) {
 
     const title = document.createElement("h2");
     title.textContent = product.title;
-    title.style.height = "50px"; // Establece la altura a 20px
 
     const description = document.createElement("p");
     description.textContent = product.description;
-    description.style.height = "50px"; // Establece la altura a 20px
     
     const category = document.createElement("p");
     category.textContent = product.category;

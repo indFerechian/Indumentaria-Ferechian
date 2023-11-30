@@ -14,22 +14,79 @@ body {
     margin: 0;
     box-sizing: border-box;
 }
-
-.product {
-    color : white ;
-    min-height: 100vh;
+#productContainer {
+    padding: 50px;
+    height: 100vh;
+    background-color: black;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    flex-wrap: nowrap;
+    justify-content: center;
     align-items: center;
-    background-color: black;
 }
-.product img {
-    height: 100%;
-    width : 100%;
-}
+
+
 a{
     height: 50px;
-    position:absolute;
-    right: 0
+}
+@media (min-width: 768px) {
+    #productContainer {
+        height: 100vh;
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .product {
+        object-fit: contain;
+        color: white;
+        height: 40vh;
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: black;
+        flex-wrap: nowrap;
+    }
+    .product, h2 , p, a{
+        margin: 5px
+    }
+    .product img {
+        object-fit: contain; /* Puedes cambiar 'contain' por 'cover' según tus necesidades */
+        max-width: 180%;
+        max-height: 180%;
+    }
+}
+@media (max-width: 768px) {
+    #productContainer {
+        width: auto;
+        height: auto;
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .product {
+        object-fit: contain;
+        overflow: hidden;
+        color: white;
+        height: 90vh;
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: black;
+        flex-wrap: nowrap;
+    }
+    .product img {
+        object-fit: contain; /* Puedes cambiar 'contain' por 'cover' según tus necesidades */
+        max-width: 120%;
+        max-height: 120%;
+    }
 }
