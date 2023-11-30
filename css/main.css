@@ -166,12 +166,12 @@ html {
         display: grid;
     }
     .img__hamburguer {
-        width: 110%; /* Aumenta el ancho para compensar el desplazamiento lateral */
+        width: 100%; /* Aumenta el ancho para compensar el desplazamiento lateral */
         height: 100vh;
         object-position: 85% center; /* Ajusta la posición de la imagen */
         position: absolute;
         top: 0;
-        left: -10;
+        left: 0;
     }
 }
 @media (min-width: 768px) {
