@@ -171,7 +171,7 @@ html {
         object-position: 85% center; /* Ajusta la posición de la imagen */
         position: absolute;
         top: 0;
-        left: 0;
+        left: -10;
     }
 }
 @media (min-width: 768px) {
