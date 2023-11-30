@@ -18,13 +18,13 @@ function getProductById(productId) {
         {
             title: "products",
             description: "este es el producto",
-            img: "./images/azulado 2.png",
+            img: "../images/azulado2.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "../image/products/product1",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
 
         },
@@ -174,6 +174,9 @@ function getProductById(productId) {
 function renderProduct(product) {
     const productContainer = document.getElementById("productContainer");
 
+    const productDiv = document.createElement("product");
+    productDiv.classList.add("product");
+
     const img = document.createElement("img");
     img.src = product.img;
     img.alt = product.title;
@@ -199,9 +202,10 @@ function renderProduct(product) {
     whatsappButton.style.height = "50px"; // Establece la altura a 20px
 
     // Agregar elementos al contenedor del producto
-    productContainer.appendChild(title);
-    productContainer.appendChild(img);
-    productContainer.appendChild(description);
+    productContainer.appendChild(productDiv);
+    productDiv.appendChild(img);
+    productDiv.appendChild(title);
+    productDiv.appendChild(description);
     whatsapp.appendChild(whatsappButton);
-    productContainer.appendChild(whatsapp);
+    productDiv.appendChild(whatsapp);
 }

@@ -14,24 +14,22 @@ body {
     margin: 0;
     box-sizing: border-box;
 }
-#productContainer {
-    background: black;
-    color: white;
-}
 
-#productContainer {
-    height: 100vh;
+.product {
+    color : white ;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
+    background-color: black;
+}
+.product img {
+    height: 100%;
+    width : 100%;
 }
 a{
     height: 50px;
     position:absolute;
     right: 0
-}
-.product img{
-    height: auto;
-    width: auto;
 }

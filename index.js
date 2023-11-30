@@ -2,7 +2,7 @@ const products = [
     {
         title: "products",
         description: "este es el producto",
-        img: "./images/azulado.jpg",
+        img: "./images/azulado2.jpg",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 1,
         category: "brasil"
@@ -13,7 +13,7 @@ const products = [
         img: "./public/products/product1",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 2
-        
+
     },
     {
         title: "products",
@@ -42,7 +42,7 @@ const products = [
         img: "./public/products/product1",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 6
-        
+
     },
     {
         title: "products",
@@ -71,7 +71,7 @@ const products = [
         img: "./public/products/product1",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 10
-        
+
     },
     {
         title: "products",
@@ -100,7 +100,7 @@ const products = [
         img: "./public/products/product1",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 14
-        
+
     },
     {
         title: "products",
@@ -129,7 +129,7 @@ const products = [
         img: "./public/products/product1",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 18
-        
+
     },
     {
         title: "products",
@@ -158,7 +158,7 @@ const products = [
         img: "./public/products/product1",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 22
-        
+
     },
     {
         title: "products",
@@ -186,8 +186,8 @@ function renderProducts() {
 
         // Configurar el fondo del div directamente
         const img = document.createElement("img");
-    img.src = product.img;
-    img.alt = product.title;
+        img.src = product.img;
+        img.alt = product.title;
 
         const checkbox = document.createElement("input");
         checkbox.type = "checkbox";
@@ -205,13 +205,12 @@ function renderProducts() {
         const whatsappButton = document.createElement("img");
         whatsappButton.src = './Images/logowhatsapp.webp'; // Coloca aquí la URL del logotipo de WhatsApp
         whatsappButton.alt = "WhatsApp";
-        whatsappButton.style.width = "40px";  
+        whatsappButton.style.width = "40px";
         whatsappButton.style.height = "40px";
-        
-        
 
         const divWhatsapp = document.createElement("div");
         // Agregar elementos al div de productos
+        productDiv.appendChild(img);
         productDiv.appendChild(title);
         productDiv.appendChild(description);
         whatsapp.appendChild(whatsappButton);
@@ -223,7 +222,7 @@ function renderProducts() {
 
         // Agregar un manejador de eventos al div del producto para cambiar el estado del checkbox
         productDiv.addEventListener("click", () => {
-            window.location.href = `./product.html?productId=${index}`;
+            window.location.href = `./pages/product.html?productId=${index}`;
             console.log(`Clic en el producto ${index}`);
             // Puedes agregar aquí la lógica adicional que necesites
         });
