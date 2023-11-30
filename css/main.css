@@ -169,7 +169,7 @@ html {
         width: 100%; /* Aumenta el ancho para compensar el desplazamiento lateral */
         height: 100vh;
         object-fit: cover;
-        object-position: 100% center; /* Ajusta la posición de la imagen */
+        object-position: 85% center; /* Ajusta la posición de la imagen */
         position: absolute;
         top: 0;
         left: 0;
