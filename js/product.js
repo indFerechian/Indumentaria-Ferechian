@@ -18,7 +18,7 @@ function getProductById(productId) {
         {
             title: "products",
             description: "este es el producto",
-            img: "../images/azulado2.png",
+            img: "../images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
@@ -31,138 +31,138 @@ function getProductById(productId) {
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
-            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-
-        },
-        {
-            title: "products",
-            description: "este es el producto",
-            img: "./public/products/product1",
-            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        },
-        {
-            title: "products",
-            description: "este es el producto",
-            img: "./public/products/product1",
-            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        },
-        {
-            title: "products",
-            description: "este es el producto",
-            img: "./public/products/product1",
-            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        },
-        {
-            title: "products",
-            description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
 
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
-            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-
-        },
-        {
-            title: "products",
-            description: "este es el producto",
-            img: "./public/products/product1",
-            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        },
-        {
-            title: "products",
-            description: "este es el producto",
-            img: "./public/products/product1",
-            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        },
-        {
-            title: "products",
-            description: "este es el producto",
-            img: "./public/products/product1",
-            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        },
-        {
-            title: "products",
-            description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
 
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
 
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         },
         {
             title: "products",
             description: "este es el producto",
-            img: "./public/products/product1",
+            img: "./images/FB_IMG_1696522236291.jpg",
+            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        },
+        {
+            title: "products",
+            description: "este es el producto",
+            img: "./images/FB_IMG_1696522236291.jpg",
+            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        },
+        {
+            title: "products",
+            description: "este es el producto",
+            img: "./images/FB_IMG_1696522236291.jpg",
+            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+
+        },
+        {
+            title: "products",
+            description: "este es el producto",
+            img: "./images/FB_IMG_1696522236291.jpg",
+            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        },
+        {
+            title: "products",
+            description: "este es el producto",
+            img: "./images/FB_IMG_1696522236291.jpg",
+            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        },
+        {
+            title: "products",
+            description: "este es el producto",
+            img: "./images/FB_IMG_1696522236291.jpg",
+            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        },
+        {
+            title: "products",
+            description: "este es el producto",
+            img: "./images/FB_IMG_1696522236291.jpg",
+            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+
+        },
+        {
+            title: "products",
+            description: "este es el producto",
+            img: "./images/FB_IMG_1696522236291.jpg",
+            whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        },
+        {
+            title: "products",
+            description: "este es el producto",
+            img: "./images/FB_IMG_1696522236291.jpg",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         }
     ];
