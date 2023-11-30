@@ -2,7 +2,7 @@ const products = [
     {
         title: "products",
         description: "este es el producto",
-        img: "./images/FB_IMG_1696522236291.jpg",
+        img: "./Images/FB_IMG_1696522236291.jpg",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 1,
         category: "brasil"
