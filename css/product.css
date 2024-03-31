@@ -52,7 +52,7 @@ a{
         flex-wrap: nowrap;
     }
     .product, h2 , p, a{
-        margin: 5px
+        margin: 5px;
     }
     .product img {
         object-fit: contain; /* Puedes cambiar 'contain' por 'cover' según tus necesidades */
@@ -75,7 +75,7 @@ a{
         object-fit: contain;
         overflow: hidden;
         color: white;
-        height: 90vh;
+        height: 100vh;
         width: 300px;
         display: flex;
         flex-direction: column;
@@ -83,6 +83,7 @@ a{
         align-items: center;
         background-color: black;
         flex-wrap: nowrap;
+    }
     }
     .product img {
         object-fit: contain; /* Puedes cambiar 'contain' por 'cover' según tus necesidades */

@@ -1,179 +1,303 @@
 const products = [
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Bad Bunny",
+        img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 1,
-        category: "brasil"
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Bad Bunny",
+        img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY2.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 2
-
+        productId: 2,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Bad Bunny",
+        img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY3.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 3
+        productId: 3,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Bad Bunny",
+        img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY4.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 4
+        productId: 4,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Bad Bunny",
+        img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY5.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 5
+        productId: 5,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Bad Bunny",
+        img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY6.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 6
-
+        productId: 6,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Bad Bunny",
+        img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY7.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 7
+        productId: 7,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Bad Bunny",
+        img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY8.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 8
+        productId: 8,
+        category: "Adidas"
+    },
+    /* ----------------------------------------------------------- */
+    {
+        title: "Adidas",
+        description: "Adidas Benito🔥",
+        img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 9,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Benito🔥",
+        img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥2.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 9
+        productId: 10,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Benito🔥",
+        img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥3.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 10
-
+        productId: 11,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Benito🔥",
+        img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥4.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 11
+        productId: 12,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Benito🔥",
+        img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥5.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 12
+        productId: 13,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Benito🔥",
+        img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥6.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 13
+        productId: 14,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Benito🔥",
+        img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥7.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 14
-
+        productId: 15,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Benito🔥",
+        img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥8.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 15
+        productId: 16,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Benito🔥",
+        img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥9.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 16
+        productId: 17,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Benito🔥",
+        img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥10.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 17
+        productId: 18,
+        category: "Adidas"
+    },
+    /* ----------------------------------------------------------- */
+    {
+        title: "Adidas",
+        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 19,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷2.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 18
-
+        productId: 20,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷3.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 19
+        productId: 21,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        img: "../Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 20
+        productId: 22,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        img: "../Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷2.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 21
+        productId: 23,
+        category: "Adidas"
+    },
+    
+    {
+        title: "Adidas",
+        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        img: "../Images/products/Adidas/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 24,
+        category: "Adidas"
+    },
+    /* ----------------------------------------------------------- */
+    {
+        title: "Adidas",
+        description: "Adidas Forum",
+        img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 25,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Forum",
+        img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM2.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 22
-
+        productId: 26,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Forum",
+        img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM3.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 23
+        productId: 27,
+        category: "Adidas"
+    },
+    /* ----------------------------------------------------------- */
+    {
+        title: "Adidas",
+        description: "Adidas Zelle",
+        img: "../Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 28,
+        category: "Adidas"
     },
     {
-        title: "products",
-        description: "este es el producto",
-        img: "./Images/FB_IMG_1696522236291.jpg",
+        title: "Adidas",
+        description: "Adidas Zelle",
+        img: "../Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷2.PNG",
         whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
-        productId: 24
-    }
+        productId: 29,
+        category: "Adidas"
+    },
+    /* ----------------------------------------------------------- */
+    {
+        title: "Adidas",
+        description: "Adidas LXCOM",
+        img: "../Images/products/Adidas/ADIDAS-LX-COM-IMPORTADAS-PREMIUM/ADIDAS-LX-COM-IMPORTADAS-PREMIUM2.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 30,
+        category: "Adidas"
+    },
+    /* ----------------------------------------------------------- */
+    {
+        title: "Adidas",
+        description: "Adidas Nizza",
+        img: "../Images/products/Adidas/ADIDAS-NIZZA/ADIDAS-NIZZA.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 31,
+        category: "Adidas"
+    },
+    /* ----------------------------------------------------------- */
+    {
+        title: "Adidas",
+        description: "Adidas Samba BR",
+        img: "../Images/products/Adidas/ADIDAS-SAMBA-🇧🇷/ADIDAS-SAMBA-🇧🇷.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 32,
+        category: "Adidas"
+    },
+    /* ----------------------------------------------------------- */
+    {
+        title: "Adidas",
+        description: "Adidas Brillos PREMIUM",
+        img: "../Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 33,
+        category: "Adidas"
+    },
+    {
+        title: "Adidas",
+        description: "Adidas Brillos PREMIUM",
+        img: "../Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷2.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 34,
+        category: "Adidas"
+    },
+    /* ----------------------------------------------------------- */
+    {
+        title: "Adidas",
+        description: "Adidas Super Star IMPORTADA PREMIUM",
+        img: "../Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 35,
+        category: "Adidas"
+    },
+    {
+        title: "Adidas",
+        description: "Adidas Super Star IMPORTADA PREMIUM",
+        img: "../Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷2.PNG",
+        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        productId: 36,
+        category: "Adidas"
+    },
+    
 ];
 
 function renderProducts() {
