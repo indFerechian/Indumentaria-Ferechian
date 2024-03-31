@@ -15,7 +15,6 @@ body {
     box-sizing: border-box;
 }
 #productContainer {
-    padding: 50px;
     height: 100vh;
     background-color: black;
     display: flex;
@@ -43,7 +42,7 @@ a{
         object-fit: contain;
         color: white;
         height: 40vh;
-        width: auto;
+        width: 45%;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -62,21 +61,22 @@ a{
 }
 @media (max-width: 768px) {
     #productContainer {
-        width: auto;
-        height: auto;
+        height: 100vh;
+        width: 100%;
         background-color: black;
         display: flex;
         flex-direction: column;
         flex-wrap: nowrap;
         justify-content: center;
         align-items: center;
+    }
+    #productContainer img{
+       width: 300%;
     }
     .product {
         object-fit: contain;
         overflow: hidden;
         color: white;
-        height: 100vh;
-        width: 300px;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -84,7 +84,8 @@ a{
         background-color: black;
         flex-wrap: nowrap;
     }
-    }
+    
+    
     .product img {
         object-fit: contain; /* Puedes cambiar 'contain' por 'cover' según tus necesidades */
         max-width: 120%;
