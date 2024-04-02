@@ -18,7 +18,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Bad Bunny",
-            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 1,
             category: "Adidas"
@@ -26,7 +26,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Bad Bunny",
-            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY2.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY2.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 2,
             category: "Adidas"
@@ -34,7 +34,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Bad Bunny",
-            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY3.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY3.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 3,
             category: "Adidas"
@@ -42,7 +42,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Bad Bunny",
-            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY4.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY4.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 4,
             category: "Adidas"
@@ -50,7 +50,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Bad Bunny",
-            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY5.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY5.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 5,
             category: "Adidas"
@@ -58,7 +58,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Bad Bunny",
-            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY6.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY6.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 6,
             category: "Adidas"
@@ -66,7 +66,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Bad Bunny",
-            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY7.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY7.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 7,
             category: "Adidas"
@@ -74,7 +74,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Bad Bunny",
-            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY8.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY8.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 8,
             category: "Adidas"
@@ -83,7 +83,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Benito🔥",
-            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 9,
             category: "Adidas"
@@ -91,7 +91,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Benito🔥",
-            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥2.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥2.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 10,
             category: "Adidas"
@@ -99,7 +99,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Benito🔥",
-            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥3.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥3.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 11,
             category: "Adidas"
@@ -107,7 +107,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Benito🔥",
-            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥4.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥4.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 12,
             category: "Adidas"
@@ -115,7 +115,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Benito🔥",
-            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥5.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥5.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 13,
             category: "Adidas"
@@ -123,7 +123,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Benito🔥",
-            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥6.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥6.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 14,
             category: "Adidas"
@@ -131,7 +131,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Benito🔥",
-            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥7.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥7.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 15,
             category: "Adidas"
@@ -139,7 +139,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Benito🔥",
-            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥8.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥8.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 16,
             category: "Adidas"
@@ -147,7 +147,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Benito🔥",
-            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥9.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥9.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 17,
             category: "Adidas"
@@ -155,7 +155,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Benito🔥",
-            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥10.PNG",
+            img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥10.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 18,
             category: "Adidas"
@@ -164,7 +164,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Campus PREMIUM🔥🇧🇷",
-            img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷.PNG",
+            img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 19,
             category: "Adidas"
@@ -172,7 +172,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Campus PREMIUM🔥🇧🇷",
-            img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷2.PNG",
+            img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷2.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 20,
             category: "Adidas"
@@ -180,7 +180,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Campus PREMIUM🔥🇧🇷",
-            img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷3.PNG",
+            img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷3.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 21,
             category: "Adidas"
@@ -188,7 +188,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Campus PREMIUM🔥🇧🇷",
-            img: "../Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷.PNG",
+            img: "../Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 22,
             category: "Adidas"
@@ -196,7 +196,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Campus PREMIUM🔥🇧🇷",
-            img: "../Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷2.PNG",
+            img: "../Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷2.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 23,
             category: "Adidas"
@@ -205,7 +205,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Campus PREMIUM🔥🇧🇷",
-            img: "../Images/products/Adidas/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥.PNG",
+            img: "../Images/products/Adidas/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 24,
             category: "Adidas"
@@ -214,7 +214,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Forum",
-            img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM.PNG",
+            img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 25,
             category: "Adidas"
@@ -222,7 +222,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Forum",
-            img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM2.PNG",
+            img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM2.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 26,
             category: "Adidas"
@@ -230,7 +230,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Forum",
-            img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM3.PNG",
+            img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM3.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 27,
             category: "Adidas"
@@ -239,7 +239,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Zelle",
-            img: "../Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷.PNG",
+            img: "../Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 28,
             category: "Adidas"
@@ -247,7 +247,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Zelle",
-            img: "../Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷2.PNG",
+            img: "../Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷2.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 29,
             category: "Adidas"
@@ -256,7 +256,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas LXCOM",
-            img: "../Images/products/Adidas/ADIDAS-LX-COM-IMPORTADAS-PREMIUM/ADIDAS-LX-COM-IMPORTADAS-PREMIUM2.PNG",
+            img: "../Images/products/Adidas/ADIDAS-LX-COM-IMPORTADAS-PREMIUM/ADIDAS-LX-COM-IMPORTADAS-PREMIUM2.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 30,
             category: "Adidas"
@@ -265,7 +265,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Nizza",
-            img: "../Images/products/Adidas/ADIDAS-NIZZA/ADIDAS-NIZZA.PNG",
+            img: "../Images/products/Adidas/ADIDAS-NIZZA/ADIDAS-NIZZA.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 31,
             category: "Adidas"
@@ -274,7 +274,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Samba BR",
-            img: "../Images/products/Adidas/ADIDAS-SAMBA-🇧🇷/ADIDAS-SAMBA-🇧🇷.PNG",
+            img: "../Images/products/Adidas/ADIDAS-SAMBA-🇧🇷/ADIDAS-SAMBA-🇧🇷.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 32,
             category: "Adidas"
@@ -283,7 +283,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Brillos PREMIUM",
-            img: "../Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷.PNG",
+            img: "../Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 33,
             category: "Adidas"
@@ -291,7 +291,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Brillos PREMIUM",
-            img: "../Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷2.PNG",
+            img: "../Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷2.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 34,
             category: "Adidas"
@@ -300,7 +300,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Super Star IMPORTADA PREMIUM",
-            img: "../Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷.PNG",
+            img: "../Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 35,
             category: "Adidas"
@@ -308,7 +308,7 @@ function getProductById(productId) {
         {
             title: "Adidas",
             description: "Adidas Super Star IMPORTADA PREMIUM",
-            img: "../Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷2.PNG",
+            img: "../Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷2.png",
             whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
             productId: 36,
             category: "Adidas"
