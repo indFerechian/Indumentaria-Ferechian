@@ -3,7 +3,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB PREMIUM",
         img: "../Images/products/Nike-SB-Low-Premium/NIKES-BLOW-AZUL-💙-PREMIUM-🔥/NIKES-BLOW-AZUL-💙-PREMIUM-🔥.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 61,
         category: "nikeSb"
     },
@@ -12,7 +12,7 @@ const products = [
         title: "Nike SB",
         description: "Nike Blow",
         img: "../Images/products/Nike-SB-Low-Premium/NIKES-BLOW-🌈/NIKES-BLOW-🌈.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 62,
         category: "nikeSb"
     },
@@ -20,7 +20,7 @@ const products = [
         title: "Nike SB",
         description: "Nike Blow",
         img: "../Images/products/Nike-SB-Low-Premium/NIKES-BLOW-🌈/NIKES-BLOW-🌈2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 63,
         category: "nikeSb"
     },
@@ -28,7 +28,7 @@ const products = [
         title: "Nike SB",
         description: "Nike Blow",
         img: "../Images/products/Nike-SB-Low-Premium/NIKES-BLOW-🌈/NIKES-BLOW-🌈3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 64,
         category: "nikeSb"
     },
@@ -36,7 +36,7 @@ const products = [
         title: "Nike SB",
         description: "Nike Blow",
         img: "../Images/products/Nike-SB-Low-Premium/NIKES-BLOW-🌈/NIKES-BLOW-🌈4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 65,
         category: "nikeSb"
     },
@@ -45,7 +45,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB",
         img: "../Images/products/Nike-SB-Low-Premium/SB-BORDO-CON-ROJO-IMPORTADAS-PREMIUM-🇧🇷/SB-BORDO-CON-ROJO-IMPORTADAS-PREMIUM-🇧🇷4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 66,
         category: "nikeSb"
     },
@@ -54,7 +54,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB",
         img: "../Images/products/Nike-SB-Low-Premium/SB-BORDO-🇧🇷/SB-BORDO-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 67,
         category: "nikeSb"
     },
@@ -63,7 +63,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB",
         img: "../Images/products/Nike-SB-Low-Premium/SB-BORDO-PREMIUM-🇧🇷/SB-BORDO-PREMIUM-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 68,
         category: "nikeSb"
     },
@@ -72,7 +72,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB",
         img: "../Images/products/Nike-SB-Low-Premium/SB-CHAROL-AZUL-💙-PREMIUM-🇧🇷/SB-CHAROL-AZUL-💙-PREMIUM-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 69,
         category: "nikeSb"
     },
@@ -81,7 +81,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB Glitter PREMIUM",
         img: "../Images/products/Nike-SB-Low-Premium/SB-GLITTER-BEIGE-PREMIUM-🔥-🇧🇷/SB-GLITTER-BEIGE-PREMIUM-🔥-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 70,
         category: "nikeSb"
     },
@@ -90,7 +90,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB Glitter PREMIUM BR",
         img: "../Images/products/Nike-SB-Low-Premium/SB-GLITTER-JEANS-PREMIUM-🇧🇷/SB-GLITTER-JEANS-PREMIUM-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 71,
         category: "nikeSb"
     },
@@ -99,7 +99,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB PREMIUM",
         img: "../Images/products/Nike-SB-Low-Premium/SB-GRIS-PREMIUM-🇧🇷/SB-GRIS-PREMIUM-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 72,
         category: "nikeSb"
     },
@@ -108,7 +108,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB PREMIUM",
         img: "../Images/products/Nike-SB-Low-Premium/SB-GRIS-PREMIUM-🇧🇷/SB-GRIS-PREMIUM-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 73,
         category: "nikeSb"
     },
@@ -117,7 +117,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB IMPORTADAS BR",
         img: "../Images/products/Nike-SB-Low-Premium/SB-importadas-🇧🇷/SB-importadas-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 74,
         category: "nikeSb"
     },
@@ -125,7 +125,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB IMPORTADAS BR",
         img: "../Images/products/Nike-SB-Low-Premium/SB-importadas-🇧🇷/SB-importadas-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 75,
         category: "nikeSb"
     },
@@ -134,7 +134,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB IMPORTADAS BR",
         img: "../Images/products/Nike-SB-Low-Premium/SB-LILA-PREMIUM-🇧🇷/SB-LILA-PREMIUM-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 76,
         category: "nikeSb"
     },
@@ -143,7 +143,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-CHAROL-PREMIUM-🇧🇷/SB-lOW-CHAROL-PREMIUM-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 77,
         category: "nikeSb"
     },
@@ -151,7 +151,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-CHAROL-PREMIUM-🇧🇷/SB-lOW-CHAROL-PREMIUM-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 78,
         category: "nikeSb"
     },
@@ -159,7 +159,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-CHAROL-PREMIUM-🇧🇷/SB-lOW-CHAROL-PREMIUM-🇧🇷3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 79,
         category: "nikeSb"
     },
@@ -168,7 +168,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-GRIS-IMPORTADAS-PREMIUM-🔥-💯/SB-lOW-GRIS-IMPORTADAS-PREMIUM-🔥-💯2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 80,
         category: "nikeSb"
     },
@@ -177,7 +177,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 81,
         category: "nikeSb"
     },
@@ -185,7 +185,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 82,
         category: "nikeSb"
     },
@@ -194,7 +194,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-IMPORTADAS-🇧🇷/SB-lOW-IMPORTADAS-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 83,
         category: "nikeSb"
     },
@@ -203,7 +203,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-LOW-NEGRA-CON-ROJO-🇧🇷/SB-LOW-NEGRA-CON-ROJO-🇧🇷4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 84,
         category: "nikeSb"
     },
@@ -211,7 +211,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-LOW-NEGRA-CON-ROJO-🇧🇷/SB-LOW-NEGRA-CON-ROJO-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 85,
         category: "nikeSb"
     },
@@ -220,7 +220,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-💗-IMPORTADAS-PREMIUM-🔥-🇧🇷/SB-lOW-💗-IMPORTADAS-PREMIUM-🔥-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 86,
         category: "nikeSb"
     },
@@ -229,7 +229,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-PANDA-PREMIUM-🇧🇷/SB-PANDA-PREMIUM-🇧🇷3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 87,
         category: "nikeSb"
     },
@@ -238,7 +238,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-PLATEADA-PREMIUM-🇧🇷/SB-PLATEADA-PREMIUM-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 88,
         category: "nikeSb"
     },
@@ -247,7 +247,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-TOTAL-WHITE-🤍/SB-TOTAL-WHITE-🤍.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 89,
         category: "nikeSb"
     },
@@ -256,7 +256,7 @@ const products = [
         title: "Nike SB",
         description: "Nike SB low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-VERDE-💚-CON-NEGRO-PREMIUM-🇧🇷/SB-VERDE-💚-CON-NEGRO-PREMIUM-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 90,
         category: "nikeSb"
     },
@@ -290,7 +290,7 @@ function renderProducts() {
         description.textContent = product.description;
 
         const whatsapp = document.createElement("a");
-        whatsapp.href = product.whatsapp;
+        whatsapp.href = `${product.whatsapp}&text=${encodeURIComponent("Hola, quiero saber más sobre este producto: " + product.title + product.description)}`;
 
         const whatsappButton = document.createElement("img");
         whatsappButton.src = '../Images/logowhatsapp.webp'; // Coloca aquí la URL del logotipo de WhatsApp

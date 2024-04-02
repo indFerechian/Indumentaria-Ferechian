@@ -3,7 +3,7 @@ const products = [
         title: "Adidas",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/ADIDAS-KIDS/ADIDAS-KIDS.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 140,
         category: "kids"
     },
@@ -11,7 +11,7 @@ const products = [
         title: "Adidas",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/ADIDAS-KIDS/ADIDAS-KIDS4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 141,
         category: "kids"
     },
@@ -19,7 +19,7 @@ const products = [
         title: "Adidas",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/ADIDAS-KIDS🇧🇷/ADIDAS-KIDS🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 143,
         category: "kids"
     },
@@ -28,7 +28,7 @@ const products = [
         title: "Nike",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/AIRFORCE-KIDS/AIRFORCE-KIDS.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 144,
         category: "kids"
     },
@@ -36,7 +36,7 @@ const products = [
         title: "Nike",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/AIRFORCE-KIDS/AIRFORCE-KIDS4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 145,
         category: "kids"
     },
@@ -44,7 +44,7 @@ const products = [
         title: "Nike",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/AIRFORCE-KIDS/AIRFORCE-KIDS6.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 146,
         category: "kids"
     },
@@ -53,7 +53,7 @@ const products = [
         title: "Nike",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/AIR-MAX-KIDS/AIR-MAX-KIDS.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 147,
         category: "kids"
     },
@@ -61,7 +61,7 @@ const products = [
         title: "Nike",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/AIR-MAX-KIDS/AIR-MAX-KIDS2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 148,
         category: "kids"
     },
@@ -69,7 +69,7 @@ const products = [
         title: "Nike",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/AIR-MAX-KIDS/AIR-MAX-KIDS3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 149,
         category: "kids"
     },
@@ -78,7 +78,7 @@ const products = [
         title: "Botines",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/Botines-kids🇧🇷/Botines-kids🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 150,
         category: "kids"
     },
@@ -86,7 +86,7 @@ const products = [
         title: "Botines",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/Botines-kids🇧🇷/Botines-kids🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 151,
         category: "kids"
     },
@@ -94,7 +94,7 @@ const products = [
         title: "Botines",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/Botines-kids🇧🇷/Botines-kids🇧🇷3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 152,
         category: "kids"
     },
@@ -103,7 +103,7 @@ const products = [
         title: "Converse",
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/CONVERSE-KIDS/CONVERSE-KIDS.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 153,
         category: "kids"
     },
@@ -112,7 +112,7 @@ const products = [
         title: "Nike",
         description: "force kids",
         img: "../Images/products/Modelos-Kids-BR-AR/FORCEBEIGE-KIDS/FORCEBEIGE-KIDS.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 154,
         category: "kids"
     },
@@ -120,7 +120,7 @@ const products = [
         title: "Nike",
         description: "force kids",
         img: "../Images/products/Modelos-Kids-BR-AR/FORCE-KIDS-PASTEL/FORCE-KIDS-PASTEL.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 155,
         category: "kids"
     },
@@ -129,7 +129,7 @@ const products = [
         title: "Forum",
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/FORUM-KIDS/FORUM-KIDS4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 156,
         category: "kids"
     },
@@ -137,7 +137,7 @@ const products = [
         title: "Forum",
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/FORUM-KIDS/FORUM-KIDS2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 157,
         category: "kids"
     },
@@ -146,7 +146,7 @@ const products = [
         title: "Jordan",
         description: "Botitas kids",
         img: "../Images/products/Modelos-Kids-BR-AR/JORDAN-BOTITA-KIDS/JORDAN-BOTITA-KIDS2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 159,
         category: "kids"
     },
@@ -154,7 +154,7 @@ const products = [
         title: "Jordan",
         description: "Botitas kids",
         img: "../Images/products/Modelos-Kids-BR-AR/JORDAN-BOTITA-KIDS/JORDAN-BOTITA-KIDS3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 160,
         category: "kids"
     },
@@ -162,7 +162,7 @@ const products = [
         title: "Jordan",
         description: "Botitas kids",
         img: "../Images/products/Modelos-Kids-BR-AR/JORDAN-BOTITA-KIDS/JORDAN-BOTITA-KIDS4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 161,
         category: "kids"
     },
@@ -171,7 +171,7 @@ const products = [
         title: "New Balance",
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/NEW-BALANCE-BEBE-ABROJO-PREMIUM/NEW-BALANCE-BEBE-ABROJO-PREMIUM.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 162,
         category: "kids"
     },
@@ -180,7 +180,7 @@ const products = [
         title: "New Balance",
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/NEW-BALANCE-BEBE-ABROJO-PREMIUM/NEW-BALANCE-BEBE-ABROJO-PREMIUM2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 163,
         category: "kids"
     },
@@ -188,7 +188,7 @@ const products = [
         title: "New Balance",
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/NEW-BALANCE-KIDS-AZUL-Y-ROSA/NEW-BALANCE-KIDS-AZUL-Y-ROSA.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 164,
         category: "kids"
     },
@@ -196,7 +196,7 @@ const products = [
         title: "New Balance",
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/NEW-BALANCE-KIDS-AZUL-Y-ROSA/NEW-BALANCE-KIDS-AZUL-Y-ROSA2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 165,
         category: "kids"
     },
@@ -205,7 +205,7 @@ const products = [
         title: "Puma",
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/PUMITA-KIDS/PUMITA-KIDS.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 166,
         category: "kids"
     },
@@ -213,7 +213,7 @@ const products = [
         title: "Puma",
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/PUMITA-KIDS/PUMITA-KIDS2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 167,
         category: "kids"
     },
@@ -221,7 +221,7 @@ const products = [
         title: "Puma",
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/PUMITA-KIDS/PUMITA-KIDS3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 168,
         category: "kids"
     },
@@ -229,7 +229,7 @@ const products = [
         title: "Puma",
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/PUMITA-KIDS/PUMITA-KIDS4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 169,
         category: "kids"
     },
@@ -238,7 +238,7 @@ const products = [
         title: "Nike",
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 170,
         category: "kids"
     },
@@ -246,7 +246,7 @@ const products = [
         title: "Nike",
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 171,
         category: "kids"
     },
@@ -254,7 +254,7 @@ const products = [
         title: "Nike",
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 172,
         category: "kids"
     },
@@ -262,7 +262,7 @@ const products = [
         title: "Nike",
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 173,
         category: "kids"
     },
@@ -270,7 +270,7 @@ const products = [
         title: "Nike",
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS5.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 174,
         category: "kids"
     },
@@ -278,7 +278,7 @@ const products = [
         title: "Nike",
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS6.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 175,
         category: "kids"
     },
@@ -287,7 +287,7 @@ const products = [
         title: "Nike",
         description: "Air kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SHADOW-KIDS/SHADOW-KIDS2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 176,
         category: "kids"
     },
@@ -295,7 +295,7 @@ const products = [
         title: "Nike",
         description: "Air kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SHADOW-KIDS/SHADOW-KIDS4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 177,
         category: "kids"
     },
@@ -304,7 +304,7 @@ const products = [
         title: "Vans",
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/VANS-NACIONALES-KIDS/VANS-NACIONALES-KIDS2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 178,
         category: "kids"
     },
@@ -338,7 +338,7 @@ function renderProducts() {
         description.textContent = product.description;
 
         const whatsapp = document.createElement("a");
-        whatsapp.href = product.whatsapp;
+        whatsapp.href = `${product.whatsapp}&text=${encodeURIComponent("Hola, quiero saber más sobre este producto: " + product.title + product.description)}`;
 
         const whatsappButton = document.createElement("img");
         whatsappButton.src = '../Images/logowhatsapp.webp'; // Coloca aquí la URL del logotipo de WhatsApp

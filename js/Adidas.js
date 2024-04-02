@@ -1,6 +1,6 @@
 const products = [
     {
-        title: "este es el titulo de producto",
+        title: "Adidas",
         description: "Adidas Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
@@ -11,7 +11,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 2,
         category: "Adidas"
     },
@@ -19,7 +19,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 3,
         category: "Adidas"
     },
@@ -27,7 +27,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 4,
         category: "Adidas"
     },
@@ -35,7 +35,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY5.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 5,
         category: "Adidas"
     },
@@ -43,7 +43,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY6.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 6,
         category: "Adidas"
     },
@@ -51,7 +51,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY7.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 7,
         category: "Adidas"
     },
@@ -59,7 +59,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY8.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 8,
         category: "Adidas"
     },
@@ -68,7 +68,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 9,
         category: "Adidas"
     },
@@ -76,7 +76,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 10,
         category: "Adidas"
     },
@@ -84,7 +84,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 11,
         category: "Adidas"
     },
@@ -92,7 +92,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 12,
         category: "Adidas"
     },
@@ -100,7 +100,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥5.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 13,
         category: "Adidas"
     },
@@ -108,7 +108,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥6.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 14,
         category: "Adidas"
     },
@@ -116,7 +116,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥7.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 15,
         category: "Adidas"
     },
@@ -124,7 +124,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥8.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 16,
         category: "Adidas"
     },
@@ -132,7 +132,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥9.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 17,
         category: "Adidas"
     },
@@ -140,7 +140,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥10.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 18,
         category: "Adidas"
     },
@@ -149,7 +149,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 19,
         category: "Adidas"
     },
@@ -157,7 +157,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 20,
         category: "Adidas"
     },
@@ -165,7 +165,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 21,
         category: "Adidas"
     },
@@ -173,7 +173,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 22,
         category: "Adidas"
     },
@@ -181,7 +181,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 23,
         category: "Adidas"
     },
@@ -190,7 +190,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 24,
         category: "Adidas"
     },
@@ -199,7 +199,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Forum",
         img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 25,
         category: "Adidas"
     },
@@ -207,7 +207,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Forum",
         img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 26,
         category: "Adidas"
     },
@@ -215,7 +215,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Forum",
         img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 27,
         category: "Adidas"
     },
@@ -224,7 +224,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Zelle",
         img: "../Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 28,
         category: "Adidas"
     },
@@ -232,7 +232,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Zelle",
         img: "../Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 29,
         category: "Adidas"
     },
@@ -241,7 +241,7 @@ const products = [
         title: "Adidas",
         description: "Adidas LXCOM",
         img: "../Images/products/Adidas/ADIDAS-LX-COM-IMPORTADAS-PREMIUM/ADIDAS-LX-COM-IMPORTADAS-PREMIUM2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 30,
         category: "Adidas"
     },
@@ -250,7 +250,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Nizza",
         img: "../Images/products/Adidas/ADIDAS-NIZZA/ADIDAS-NIZZA.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 31,
         category: "Adidas"
     },
@@ -259,7 +259,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Samba BR",
         img: "../Images/products/Adidas/ADIDAS-SAMBA-🇧🇷/ADIDAS-SAMBA-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 32,
         category: "Adidas"
     },
@@ -268,7 +268,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Brillos PREMIUM",
         img: "../Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 33,
         category: "Adidas"
     },
@@ -276,7 +276,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Brillos PREMIUM",
         img: "../Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 34,
         category: "Adidas"
     },
@@ -285,7 +285,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Super Star IMPORTADA PREMIUM",
         img: "../Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 35,
         category: "Adidas"
     },
@@ -293,7 +293,7 @@ const products = [
         title: "Adidas",
         description: "Adidas Super Star IMPORTADA PREMIUM",
         img: "../Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 36,
         category: "Adidas"
     },
@@ -319,9 +319,7 @@ function renderProducts() {
         description.textContent = product.description;
 
         const whatsapp = document.createElement("a");
-        whatsapp.href = `${product.whatsapp}&text=${encodeURIComponent("Hola, quiero saber más sobre este producto: " + product.title)}`;
-        console.log(whatsapp.href);
-
+        whatsapp.href = `${product.whatsapp}&text=${encodeURIComponent("Hola, quiero saber más sobre este producto: " + product.title + product.description)}`;
 
         const whatsappButton = document.createElement("img");
         whatsappButton.src = '../Images/logowhatsapp.webp';
