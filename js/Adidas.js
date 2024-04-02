@@ -319,7 +319,7 @@ function renderProducts() {
         description.textContent = product.description;
 
         const whatsapp = document.createElement("a");
-        whatsapp.href = `${product.whatsapp}&text=${encodeURIComponent("Hola, quiero saber más sobre este producto: " + product.title + " " + product.description)}`;
+        whatsapp.href = `${product.whatsapp}&text=${encodeURIComponent("Hola Ind. Ferechian, quiero saber que talles tenes en stock y que colores de este par : " + product.title + " " + product.description)}`;
 
         const whatsappButton = document.createElement("img");
         whatsappButton.src = '../Images/logowhatsapp.webp';
