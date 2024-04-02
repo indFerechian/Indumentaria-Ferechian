@@ -218,7 +218,6 @@ html {
         display: flex;
         height: 300px;
         width: 180px;
-        margin: 10px;
         flex-direction: column;
         justify-content: flex-end;
         align-items: center;
@@ -252,7 +251,6 @@ html {
         display: flex;
         height: 250px;
         width: 150px;
-        margin: 5px;
         flex-direction: column;
         justify-content: flex-end;
         align-items: center;
@@ -261,7 +259,7 @@ html {
         /* Estilos por defecto para el producto */
         border: 1px solid red;
         padding: 10px;
-        margin: 10px;
+        margin: 5px;
         transition: transform 0.3s; /* Agregamos una transición para suavizar el cambio */
     }
     .product img {

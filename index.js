@@ -1489,14 +1489,9 @@ function renderProducts() {
         productDiv.classList.add("product");
         productDiv.dataset.index = index;
         
-        // Configurar el fondo del div directamente
         const img = document.createElement("img");
         img.src = product.img;
-        img.alt = "product img";
-
-        const checkbox = document.createElement("input");
-        checkbox.type = "checkbox";
-        checkbox.style.opacity = 0;
+        img.alt = product.title;
 
         const title = document.createElement("h2");
         title.textContent = product.title;
