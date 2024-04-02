@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // Función para obtener el producto por su id
 function getProductById(productId) {
-    // 'products' debería ser accesible desde aquí o debes cargarlo nuevamente
+    
     const products = [
         {
             title: "Adidas",
@@ -1524,10 +1524,10 @@ function renderProduct(product) {
     whatsapp.href = product.whatsapp;
 
     const whatsappButton = document.createElement("img");
-    whatsappButton.src = "../Images/logowhatsapp.webp"; // Reemplaza con la URL correcta
+    whatsappButton.src = "../Images/logowhatsapp.webp";
     whatsappButton.alt = "WhatsApp";
-    whatsappButton.style.width = "50px"; // Establece el ancho a 20px
-    whatsappButton.style.height = "50px"; // Establece la altura a 20px
+    whatsappButton.style.width = "50px"; 
+    whatsappButton.style.height = "50px"; 
 
     // Agregar elementos al contenedor del producto
     productContainer.appendChild(productDiv);
