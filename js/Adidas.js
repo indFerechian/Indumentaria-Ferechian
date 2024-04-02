@@ -304,10 +304,7 @@ function renderProducts() {
     const contentProducts = document.getElementById("contentProduct");
 
     products.forEach((product, index) => {
-        // Agregar condición para filtrar por categoría "Adidas"
-        if (product.category !== "Adidas") {
-            return; // Omitir este producto si no es de la categoría "Adidas"
-        }
+        
 
         const productDiv = document.createElement("div");
         productDiv.classList.add("product");
