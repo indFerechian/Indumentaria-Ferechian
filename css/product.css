@@ -4,16 +4,6 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-        Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
-        sans-serif;
-}
-
-* {
-    margin: 0;
-    box-sizing: border-box;
-}
 #productContainer {
     height: 100vh;
     background-color: black;
@@ -23,7 +13,6 @@ body {
     justify-content: center;
     align-items: center;
 }
-
 
 a{
     height: 50px;
@@ -42,7 +31,7 @@ a{
         object-fit: contain;
         color: white;
         height: 40vh;
-        width: 45%;
+        width: 160px;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -81,13 +70,12 @@ a{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        background-color: black;
         flex-wrap: nowrap;
     }
     
     
     .product img {
-        object-fit: contain; /* Puedes cambiar 'contain' por 'cover' según tus necesidades */
+        object-fit: contain; 
         max-width: 120%;
         max-height: 120%;
     }

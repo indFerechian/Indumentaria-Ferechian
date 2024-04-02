@@ -36,17 +36,6 @@ html {
     background-image: url("../Images/logo.jpeg");
 }
 
-.fondo__Img {
-    width: 150%; /* Aumenta el ancho para compensar el desplazamiento lateral */
-    height: 100vh;
-    object-fit: cover;
-    object-position: 70% center; /* Ajusta la posición de la imagen */
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-}
-
 .container {
     margin: 0 auto;
     width: 90%;
@@ -61,7 +50,6 @@ html {
     width: 200px;
 }
 
-
 .hero {
     position: relative;
     overflow: hidden;
@@ -70,7 +58,7 @@ html {
     background-size: cover;
     background-position: center center;
     background-attachment: fixed; /* Mantiene la imagen fija en el centro */
-    min-height: 300px;
+    max-height: 100vh;
     height: 100vh;
 }
 
@@ -110,7 +98,7 @@ html {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    gap: 1.5em;
+    gap: .5em;
     color: black;
     padding: 50px;
     padding-left: 5%;
@@ -168,15 +156,7 @@ html {
         align-items: center;
         grid-template-columns: repeat(2, max-content);
     }
-    .fondo__Img {
-        background-attachment: fixed; /* Mantiene la imagen fija en el centro */
-        width: 100%;
-        height: 110vh;
-        position: relative;
-        top: -100px;
-        left: 0;
-        z-index: -1;
-    }
+    
     .nav__logo {
         font-size: 22.5rem;
         z-index: 1;
@@ -223,7 +203,6 @@ html {
     }
     .contentProduct {
         color : white;
-        margin-top: 100px;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
@@ -265,20 +244,22 @@ html {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+        color: white;
+        text-align: center;
     }
     .product {
         border-radius: 15px;
         display: flex;
-        height: 300px;
-        width: 180px;
-        margin: 20px;
+        height: 250px;
+        width: 150px;
+        margin: 5px;
         flex-direction: column;
         justify-content: flex-end;
         align-items: center;
         z-index: 10;
 
         /* Estilos por defecto para el producto */
-        border: 1px solid #ccc;
+        border: 1px solid red;
         padding: 10px;
         margin: 10px;
         transition: transform 0.3s; /* Agregamos una transición para suavizar el cambio */
@@ -327,9 +308,7 @@ html {
 .contentProduct {
     animation: transitionIn 1s;
 }
-.fondo__Img {
-    animation: transitionIn 1s;
-}
+
 .logoImg {
     animation: transitionIn 1.5s;
 }

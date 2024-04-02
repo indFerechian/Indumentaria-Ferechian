@@ -305,7 +305,7 @@ function renderProducts() {
 
     products.forEach((product, index) => {
         const productDiv = document.createElement("div");
-        productDiv.classList.add("productView");
+        productDiv.classList.add("product");
         productDiv.dataset.index = index;
         
         // Configurar el fondo del div directamente
