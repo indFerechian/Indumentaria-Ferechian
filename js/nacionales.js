@@ -1,7 +1,7 @@
 const products = [
     {
         title: "Adidas",
-        description: "Flacon base goma super livianas 🇦🇷",
+        description: "Flacon super livianas 🇦🇷",
         img: "../Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 91,
@@ -9,7 +9,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Flacon base goma super livianas 🇦🇷",
+        description: "Flacon super livianas 🇦🇷",
         img: "../Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 92,
@@ -17,7 +17,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Flacon base goma super livianas 🇦🇷",
+        description: "Flacon super livianas 🇦🇷",
         img: "../Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 93,
@@ -25,7 +25,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Flacon base goma super livianas 🇦🇷",
+        description: "Flacon super livianas 🇦🇷",
         img: "../Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 94,
@@ -33,7 +33,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Flacon base goma super livianas 🇦🇷",
+        description: "Flacon super livianas 🇦🇷",
         img: "../Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷5.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 95,
@@ -67,7 +67,7 @@ const products = [
     /* --------------------------- */
     {
         title: "Adidas",
-        description: "Runner base de goma",
+        description: "Runner",
         img: "../Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 99,
@@ -75,7 +75,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Runner base de goma",
+        description: "Runner",
         img: "../Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 100,
@@ -83,7 +83,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Runner base de goma",
+        description: "Runner",
         img: "../Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 101,
@@ -91,7 +91,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Runner base de goma",
+        description: "Runner",
         img: "../Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷5.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 102,
@@ -176,7 +176,7 @@ const products = [
     /* ----------------------------------------------- */
     {
         title: "Alexander mac queen",
-        description: "Alexander mac queen",
+        description: "",
         img: "../Images/products/Nacionales/ALEXANDER-MAC-QUEEN/ALEXANDER-MAC-QUEEN.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 112,
@@ -184,7 +184,7 @@ const products = [
     },
     {
         title: "Alexander mac queen",
-        description: "Alexander mac queen",
+        description: "",
         img: "../Images/products/Nacionales/ALEXANDER-MAC-QUEEN/ALEXANDER-MAC-QUEEN2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 113,
@@ -192,7 +192,7 @@ const products = [
     },
     {
         title: "Alexander mac queen",
-        description: "Alexander mac queen",
+        description: "",
         img: "../Images/products/Nacionales/ALEXANDER-MAC-QUEEN/ALEXANDER-MAC-QUEEN3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 114,
@@ -200,7 +200,7 @@ const products = [
     },
     {
         title: "Alexander mac queen",
-        description: "Alexander mac queen",
+        description: "",
         img: "../Images/products/Nacionales/ALEXANDER-MAC-QUEEN/ALEXANDER-MAC-QUEEN4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 115,
@@ -208,7 +208,7 @@ const products = [
     },
     {
         title: "converse",
-        description: "Alexander mac queen",
+        description: "",
         img: "../Images/products/Nacionales/ALEXANDER-MAC-QUEEN/ALEXANDER-MAC-QUEEN5.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 116,
@@ -217,7 +217,7 @@ const products = [
     /* ------------------------------- */
     {
         title: "converse",
-        description: "Bota converse plataforma",
+        description: "Bota plataforma",
         img: "../Images/products/Nacionales/BOTA-CONVERSE-PLATAFORMA/BOTA-CONVERSE-PLATAFORMA.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 117,
@@ -225,7 +225,7 @@ const products = [
     },
     {
         title: "Converse",
-        description: "Bota converse plataforma",
+        description: "Bota plataforma",
         img: "../Images/products/Nacionales/BOTA-CONVERSE-PLATAFORMA/BOTA-CONVERSE-PLATAFORMA2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 118,

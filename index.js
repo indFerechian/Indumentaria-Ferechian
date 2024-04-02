@@ -1,7 +1,7 @@
 const products = [
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "./Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 1,
@@ -10,7 +10,7 @@ const products = [
 
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "./Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 2,
@@ -18,7 +18,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "./Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 3,
@@ -26,7 +26,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "./Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 4,
@@ -34,7 +34,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "./Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY5.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 5,
@@ -42,7 +42,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "./Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY6.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 6,
@@ -50,7 +50,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "./Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY7.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 7,
@@ -58,7 +58,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "./Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY8.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 8,
@@ -67,7 +67,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "./Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 9,
@@ -75,7 +75,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "./Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 10,
@@ -83,7 +83,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "./Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 11,
@@ -91,7 +91,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "./Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 12,
@@ -99,7 +99,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "./Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥5.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 13,
@@ -107,7 +107,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "./Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥6.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 14,
@@ -115,7 +115,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "./Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥7.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 15,
@@ -123,7 +123,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "./Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥8.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 16,
@@ -131,7 +131,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "./Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥9.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 17,
@@ -139,7 +139,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "./Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥10.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 18,
@@ -148,7 +148,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "./Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 19,
@@ -156,7 +156,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "./Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 20,
@@ -164,7 +164,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "./Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 21,
@@ -172,7 +172,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "./Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 22,
@@ -180,7 +180,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "./Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 23,
@@ -189,7 +189,7 @@ const products = [
 
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "./Images/products/Adidas/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 24,
@@ -198,7 +198,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Forum",
+        description: "Forum",
         img: "./Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 25,
@@ -206,7 +206,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Forum",
+        description: "Forum",
         img: "./Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 26,
@@ -214,7 +214,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Forum",
+        description: "Forum",
         img: "./Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 27,
@@ -223,7 +223,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Zelle",
+        description: "Zelle",
         img: "./Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 28,
@@ -231,7 +231,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Zelle",
+        description: "Zelle",
         img: "./Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 29,
@@ -240,7 +240,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas LXCOM",
+        description: "LXCOM",
         img: "./Images/products/Adidas/ADIDAS-LX-COM-IMPORTADAS-PREMIUM/ADIDAS-LX-COM-IMPORTADAS-PREMIUM2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 30,
@@ -249,7 +249,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Nizza",
+        description: "Nizza",
         img: "./Images/products/Adidas/ADIDAS-NIZZA/ADIDAS-NIZZA.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 31,
@@ -258,7 +258,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Samba BR",
+        description: "Samba BR",
         img: "./Images/products/Adidas/ADIDAS-SAMBA-🇧🇷/ADIDAS-SAMBA-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 32,
@@ -267,7 +267,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Brillos PREMIUM",
+        description: "Brillos PREMIUM",
         img: "./Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 33,
@@ -275,7 +275,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Brillos PREMIUM",
+        description: "Brillos PREMIUM",
         img: "./Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 34,
@@ -284,7 +284,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Super Star IMPORTADA PREMIUM",
+        description: "Super Star IMPORTADA PREMIUM",
         img: "./Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 35,
@@ -292,7 +292,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Super Star IMPORTADA PREMIUM",
+        description: "Super Star IMPORTADA PREMIUM",
         img: "./Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 36,
@@ -300,7 +300,7 @@ const products = [
     },
     {
         title: "Nike Air",
-        description: "Nike Air AF1 IMPORTADAS",
+        description: "AF1 IMPORTADAS",
         img: "./Images/products/Nike-Air-Force-premium-BR/AF1-IMPORTADAS-PREMIUM-🇧🇷/AF1-IMPORTADAS-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 37,
@@ -309,7 +309,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Air AF1 IMPORTADAS",
+        description: "AF1 IMPORTADAS",
         img: "./Images/products/Nike-Air-Force-premium-BR/AF1-IMPORTADAS-PREMIUM-🔥/AF1-IMPORTADAS-PREMIUM-🔥2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 38,
@@ -318,7 +318,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Air AF1 IMPORTADAS",
+        description: "AF1 IMPORTADAS",
         img: "./Images/products/Nike-Air-Force-premium-BR/AF1-IMPORTADAS-PREMIUM🔥-🇧🇷/AF1-IMPORTADAS-PREMIUM🔥-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 39,
@@ -326,7 +326,7 @@ const products = [
     },
     {
         title: "Nike Air",
-        description: "Nike Air AF1 IMPORTADAS",
+        description: "AF1 IMPORTADAS",
         img: "./Images/products/Nike-Air-Force-premium-BR/AF1-IMPORTADAS-PREMIUM🔥-🇧🇷/AF1-IMPORTADAS-PREMIUM🔥-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 40,
@@ -334,7 +334,7 @@ const products = [
     },
     {
         title: "Nike Air",
-        description: "Nike Air AF1 IMPORTADAS",
+        description: "AF1 IMPORTADAS",
         img: "./Images/products/Nike-Air-Force-premium-BR/AF1-IMPORTADAS-PREMIUM🔥-🇧🇷/AF1-IMPORTADAS-PREMIUM🔥-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 41,
@@ -343,7 +343,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force",
+        description: "Force",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-BEIGE-GRIS-PREMIUM🔥-🇧🇷/AIR-FORCE-BEIGE-GRIS-PREMIUM🔥-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 42,
@@ -351,7 +351,7 @@ const products = [
     },
     {
         title: "Nike Air",
-        description: "Nike Force",
+        description: "Force",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-BEIGE-GRIS-PREMIUM🔥-🇧🇷/AIR-FORCE-BEIGE-GRIS-PREMIUM🔥-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 43,
@@ -360,7 +360,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force",
+        description: "Force",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-BEIGE-NEGRO-Y-BLANCAS-PREMIUM-🇧🇷/AIR-FORCE-BEIGE-NEGRO-Y-BLANCAS-PREMIUM-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 44,
@@ -368,7 +368,7 @@ const products = [
     },
     {
         title: "Nike Air",
-        description: "Nike Force",
+        description: "Force",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-BEIGE-NEGRO-Y-BLANCAS-PREMIUM-🇧🇷/AIR-FORCE-BEIGE-NEGRO-Y-BLANCAS-PREMIUM-🇧🇷4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 45,
@@ -376,7 +376,7 @@ const products = [
     },
     {
         title: "Nike Air",
-        description: "Nike Force blancas PREMIUN BR",
+        description: "Force blancas PREMIUN BR",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-BLANCAS-PREMIUM-🇧🇷/AIR-FORCE-BLANCAS-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 46,
@@ -385,7 +385,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force blancas PREMIUN BR",
+        description: "Force blancas PREMIUN BR",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-BLANCAS-💛/AIR-FORCE-BLANCAS-💛3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 47,
@@ -394,7 +394,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force Glitter PREMIUN BR",
+        description: "Force Glitter PREMIUN BR",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-GLITTER-PREMIUM-🇧🇷/AIR-FORCE-GLITTER-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 48,
@@ -403,7 +403,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: " Nike Force IMPORTADA PREMIUM",
+        description: " Force IMPORTADA PREMIUM",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-MINT-IMPORTADAS-PREMIUM-🇧🇷/AIR-FORCE-MINT-IMPORTADAS-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 49,
@@ -412,7 +412,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force One Just Do It PREMIUM",
+        description: "Force One Just Do It PREMIUM",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-ONE-IMPORTADA-PREMIUM-🇧🇷/AIR-FORCE-ONE-IMPORTADA-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 50,
@@ -421,7 +421,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force One PREMIUM",
+        description: "Force One PREMIUM",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-ONE-JUST-DO-IT-PREMIUM-🇧🇷/AIR-FORCE-ONE-JUST-DO-IT-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 51,
@@ -430,7 +430,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force One PREMIUM",
+        description: "Force One PREMIUM",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-ONE-PREMIUM-2-🇧🇷/AIR-FORCE-ONE-PREMIUM-2-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 52,
@@ -439,7 +439,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force One PREMIUM",
+        description: "Force One PREMIUM",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-ONE-PREMIUM-🇧🇷/AIR-FORCE-ONE-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 53,
@@ -447,7 +447,7 @@ const products = [
     },
     {
         title: "Nike Air",
-        description: "Nike Force One PREMIUM",
+        description: "Force One PREMIUM",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-ONE-PREMIUM-🇧🇷/AIR-FORCE-ONE-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 54,
@@ -457,7 +457,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force One PREMIUM",
+        description: "Force One PREMIUM",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PIPA-CELESTE-PREMIUM-🇧🇷/AIR-FORCE-PIPA-CELESTE-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 56,
@@ -466,7 +466,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force One PREMIUM",
+        description: "Force One PREMIUM",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PIPA-CELESTE-PREMIUM-🇧🇷/AIR-FORCE-PIPA-CELESTE-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 57,
@@ -475,7 +475,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force One PREMIUM",
+        description: "Force One PREMIUM",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PIPA-VERDE-💚/AIRFORCEPIPAVERDE💚.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 58,
@@ -484,7 +484,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force One PREMIUM",
+        description: "Force One PREMIUM",
         img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PREMIUM-BLANCA-PIPA-LILA-🇧🇷/AIR-FORCE-PREMIUM-BLANCA-PIPA-LILA-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 59,
@@ -493,7 +493,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike Air",
-        description: "Nike Force One PREMIUM",
+        description: "Force One PREMIUM",
         img: "./Images/products/Nike-Air-Force-premium-BR/FORCE-IMPORTADA-PREMIUM-🇧🇷/FORCE-IMPORTADA-PREMIUM-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 60,
@@ -501,7 +501,7 @@ const products = [
     },
     {
         title: "Nike SB",
-        description: "Nike SB PREMIUM",
+        description: "PREMIUM",
         img: "./Images/products/Nike-SB-Low-Premium/NIKES-BLOW-AZUL-💙-PREMIUM-🔥/NIKES-BLOW-AZUL-💙-PREMIUM-🔥.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 61,
@@ -510,7 +510,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike Blow",
+        description: "Blow",
         img: "./Images/products/Nike-SB-Low-Premium/NIKES-BLOW-🌈/NIKES-BLOW-🌈.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 62,
@@ -518,7 +518,7 @@ const products = [
     },
     {
         title: "Nike SB",
-        description: "Nike Blow",
+        description: "Blow",
         img: "./Images/products/Nike-SB-Low-Premium/NIKES-BLOW-🌈/NIKES-BLOW-🌈2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 63,
@@ -526,7 +526,7 @@ const products = [
     },
     {
         title: "Nike SB",
-        description: "Nike Blow",
+        description: "Blow",
         img: "./Images/products/Nike-SB-Low-Premium/NIKES-BLOW-🌈/NIKES-BLOW-🌈3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 64,
@@ -534,7 +534,7 @@ const products = [
     },
     {
         title: "Nike SB",
-        description: "Nike Blow",
+        description: "Blow",
         img: "./Images/products/Nike-SB-Low-Premium/NIKES-BLOW-🌈/NIKES-BLOW-🌈4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 65,
@@ -543,7 +543,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB",
+        description: "",
         img: "./Images/products/Nike-SB-Low-Premium/SB-BORDO-CON-ROJO-IMPORTADAS-PREMIUM-🇧🇷/SB-BORDO-CON-ROJO-IMPORTADAS-PREMIUM-🇧🇷4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 66,
@@ -552,7 +552,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB",
+        description: "",
         img: "./Images/products/Nike-SB-Low-Premium/SB-BORDO-🇧🇷/SB-BORDO-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 67,
@@ -561,7 +561,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB",
+        description: "",
         img: "./Images/products/Nike-SB-Low-Premium/SB-BORDO-PREMIUM-🇧🇷/SB-BORDO-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 68,
@@ -570,7 +570,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB",
+        description: "",
         img: "./Images/products/Nike-SB-Low-Premium/SB-CHAROL-AZUL-💙-PREMIUM-🇧🇷/SB-CHAROL-AZUL-💙-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 69,
@@ -579,7 +579,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB Glitter PREMIUM",
+        description: "Glitter PREMIUM",
         img: "./Images/products/Nike-SB-Low-Premium/SB-GLITTER-BEIGE-PREMIUM-🔥-🇧🇷/SB-GLITTER-BEIGE-PREMIUM-🔥-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 70,
@@ -588,7 +588,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB Glitter PREMIUM BR",
+        description: "Glitter PREMIUM BR",
         img: "./Images/products/Nike-SB-Low-Premium/SB-GLITTER-JEANS-PREMIUM-🇧🇷/SB-GLITTER-JEANS-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 71,
@@ -597,7 +597,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB PREMIUM",
+        description: "PREMIUM",
         img: "./Images/products/Nike-SB-Low-Premium/SB-GRIS-PREMIUM-🇧🇷/SB-GRIS-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 72,
@@ -606,7 +606,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB PREMIUM",
+        description: "PREMIUM",
         img: "./Images/products/Nike-SB-Low-Premium/SB-GRIS-PREMIUM-🇧🇷/SB-GRIS-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 73,
@@ -615,7 +615,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB IMPORTADAS BR",
+        description: "IMPORTADAS BR",
         img: "./Images/products/Nike-SB-Low-Premium/SB-importadas-🇧🇷/SB-importadas-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 74,
@@ -623,7 +623,7 @@ const products = [
     },
     {
         title: "Nike SB",
-        description: "Nike SB IMPORTADAS BR",
+        description: "IMPORTADAS BR",
         img: "./Images/products/Nike-SB-Low-Premium/SB-importadas-🇧🇷/SB-importadas-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 75,
@@ -632,7 +632,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB IMPORTADAS BR",
+        description: "IMPORTADAS BR",
         img: "./Images/products/Nike-SB-Low-Premium/SB-LILA-PREMIUM-🇧🇷/SB-LILA-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 76,
@@ -641,7 +641,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-lOW-CHAROL-PREMIUM-🇧🇷/SB-lOW-CHAROL-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 77,
@@ -649,7 +649,7 @@ const products = [
     },
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-lOW-CHAROL-PREMIUM-🇧🇷/SB-lOW-CHAROL-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 78,
@@ -657,7 +657,7 @@ const products = [
     },
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-lOW-CHAROL-PREMIUM-🇧🇷/SB-lOW-CHAROL-PREMIUM-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 79,
@@ -666,7 +666,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-lOW-GRIS-IMPORTADAS-PREMIUM-🔥-💯/SB-lOW-GRIS-IMPORTADAS-PREMIUM-🔥-💯2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 80,
@@ -675,7 +675,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 81,
@@ -683,7 +683,7 @@ const products = [
     },
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 82,
@@ -692,7 +692,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-lOW-IMPORTADAS-🇧🇷/SB-lOW-IMPORTADAS-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 83,
@@ -701,7 +701,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-LOW-NEGRA-CON-ROJO-🇧🇷/SB-LOW-NEGRA-CON-ROJO-🇧🇷4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 84,
@@ -709,7 +709,7 @@ const products = [
     },
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-LOW-NEGRA-CON-ROJO-🇧🇷/SB-LOW-NEGRA-CON-ROJO-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 85,
@@ -718,7 +718,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-lOW-💗-IMPORTADAS-PREMIUM-🔥-🇧🇷/SB-lOW-💗-IMPORTADAS-PREMIUM-🔥-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 86,
@@ -727,7 +727,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-PANDA-PREMIUM-🇧🇷/SB-PANDA-PREMIUM-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 87,
@@ -736,7 +736,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-PLATEADA-PREMIUM-🇧🇷/SB-PLATEADA-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 88,
@@ -745,7 +745,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-TOTAL-WHITE-🤍/SB-TOTAL-WHITE-🤍.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 89,
@@ -754,7 +754,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "Nike SB low",
+        description: "Low",
         img: "./Images/products/Nike-SB-Low-Premium/SB-VERDE-💚-CON-NEGRO-PREMIUM-🇧🇷/SB-VERDE-💚-CON-NEGRO-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 90,
@@ -762,7 +762,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Flacon base goma super livianas 🇦🇷",
+        description: "Flacon super livianas 🇦🇷",
         img: "./Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 91,
@@ -770,7 +770,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Flacon base goma super livianas 🇦🇷",
+        description: "Flacon super livianas 🇦🇷",
         img: "./Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 92,
@@ -778,7 +778,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Flacon base goma super livianas 🇦🇷",
+        description: "Flacon super livianas 🇦🇷",
         img: "./Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 93,
@@ -786,7 +786,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Flacon base goma super livianas 🇦🇷",
+        description: "Flacon super livianas 🇦🇷",
         img: "./Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 94,
@@ -794,7 +794,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Flacon base goma super livianas 🇦🇷",
+        description: "Flacon super livianas 🇦🇷",
         img: "./Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷5.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 95,
@@ -828,7 +828,7 @@ const products = [
     /* --------------------------- */
     {
         title: "Adidas",
-        description: "Runner base de goma",
+        description: "Runner",
         img: "./Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 99,
@@ -836,7 +836,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Runner base de goma",
+        description: "Runner",
         img: "./Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 100,
@@ -844,7 +844,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Runner base de goma",
+        description: "Runner",
         img: "./Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 101,
@@ -852,7 +852,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Runner base de goma",
+        description: "Runner",
         img: "./Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷5.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 102,
@@ -978,7 +978,7 @@ const products = [
     /* ------------------------------- */
     {
         title: "converse",
-        description: "Bota converse plataforma",
+        description: "Bota plataforma",
         img: "./Images/products/Nacionales/BOTA-CONVERSE-PLATAFORMA/BOTA-CONVERSE-PLATAFORMA.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 117,
@@ -986,7 +986,7 @@ const products = [
     },
     {
         title: "Converse",
-        description: "Bota converse plataforma",
+        description: "Bota plataforma",
         img: "./Images/products/Nacionales/BOTA-CONVERSE-PLATAFORMA/BOTA-CONVERSE-PLATAFORMA2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 118,

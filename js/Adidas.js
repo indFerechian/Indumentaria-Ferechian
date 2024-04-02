@@ -1,7 +1,7 @@
 const products = [
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 1,
@@ -9,7 +9,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 2,
@@ -17,7 +17,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 3,
@@ -25,7 +25,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 4,
@@ -33,7 +33,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY5.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 5,
@@ -41,7 +41,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY6.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 6,
@@ -49,7 +49,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY7.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 7,
@@ -57,7 +57,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Bad Bunny",
+        description: "Bad Bunny",
         img: "../Images/products/Adidas/ADIDAS-BAD-BUNNY/ADIDAS-BAD-BUNNY8.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 8,
@@ -66,7 +66,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 9,
@@ -74,7 +74,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 10,
@@ -82,7 +82,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 11,
@@ -90,7 +90,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 12,
@@ -98,7 +98,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥5.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 13,
@@ -106,7 +106,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥6.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 14,
@@ -114,7 +114,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥7.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 15,
@@ -122,7 +122,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥8.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 16,
@@ -130,7 +130,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥9.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 17,
@@ -138,7 +138,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Benito🔥",
+        description: "Benito🔥",
         img: "../Images/products/Adidas/ADIDAS-BENITO🔥/ADIDAS-BENITO🔥10.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 18,
@@ -147,7 +147,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 19,
@@ -155,7 +155,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 20,
@@ -163,7 +163,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷/ADIDAS-CAMPUES-IMPORTADAS-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 21,
@@ -171,7 +171,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 22,
@@ -179,7 +179,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷/ADIDAS-CAMPUS-PREMIUM🔥-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 23,
@@ -188,7 +188,7 @@ const products = [
     
     {
         title: "Adidas",
-        description: "Adidas Campus PREMIUM🔥🇧🇷",
+        description: "Campus PREMIUM🔥🇧🇷",
         img: "../Images/products/Adidas/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥/ADIDAS-CAMPUS-ROSAS-PREMIUM💖🔥.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 24,
@@ -197,7 +197,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Forum",
+        description: "Forum",
         img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 25,
@@ -205,7 +205,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Forum",
+        description: "Forum",
         img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 26,
@@ -213,7 +213,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Forum",
+        description: "Forum",
         img: "../Images/products/Adidas/ADIDAS-FORUM/ADIDAS-FORUM3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 27,
@@ -222,7 +222,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Zelle",
+        description: "Zelle",
         img: "../Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 28,
@@ -230,7 +230,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Zelle",
+        description: "Zelle",
         img: "../Images/products/Adidas/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷/ADIDAS-GAZELLE-IMPORTADAS-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 29,
@@ -239,7 +239,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas LXCOM",
+        description: "LXCOM",
         img: "../Images/products/Adidas/ADIDAS-LX-COM-IMPORTADAS-PREMIUM/ADIDAS-LX-COM-IMPORTADAS-PREMIUM2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 30,
@@ -248,7 +248,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Nizza",
+        description: "Nizza",
         img: "../Images/products/Adidas/ADIDAS-NIZZA/ADIDAS-NIZZA.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 31,
@@ -257,7 +257,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Samba BR",
+        description: "Samba BR",
         img: "../Images/products/Adidas/ADIDAS-SAMBA-🇧🇷/ADIDAS-SAMBA-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 32,
@@ -266,7 +266,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Brillos PREMIUM",
+        description: "Brillos PREMIUM",
         img: "../Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 33,
@@ -274,7 +274,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Brillos PREMIUM",
+        description: "Brillos PREMIUM",
         img: "../Images/products/Adidas/STARS-BRILLOS-PREMIUM-🇧🇷/STARS-BRILLOS-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 34,
@@ -283,7 +283,7 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Adidas",
-        description: "Adidas Super Star IMPORTADA PREMIUM",
+        description: "Super Star IMPORTADA PREMIUM",
         img: "../Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 35,
@@ -291,7 +291,7 @@ const products = [
     },
     {
         title: "Adidas",
-        description: "Adidas Super Star IMPORTADA PREMIUM",
+        description: "Super Star IMPORTADA PREMIUM",
         img: "../Images/products/Adidas/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷/SUPER-STAR-IMPORTADA-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 36,
