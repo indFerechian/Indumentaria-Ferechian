@@ -1524,6 +1524,7 @@ function renderProduct(product) {
     whatsapp.href = product.whatsapp;
 
     const whatsappButton = document.createElement("img");
+    whatsappButton.classList.add("whatsappButton");
     whatsappButton.src = "../Images/logowhatsapp.webp";
     whatsappButton.alt = "WhatsApp";
     whatsappButton.style.width = "50px";
