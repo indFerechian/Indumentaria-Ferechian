@@ -185,7 +185,7 @@ const products = [
         productId: 23,
         category: "Adidas"
     },
-    
+
     {
         title: "Adidas",
         description: "Adidas Campus PREMIUM🔥🇧🇷",
@@ -914,7 +914,7 @@ const products = [
         productId: 108,
         category: "nacionales"
     },
-    
+
     /* ---------------------------------------------------------------- */
     {
         title: "Nike",
@@ -1108,7 +1108,7 @@ const products = [
         category: "nacionales"
     },
     /* ------------------------------------- */
-    
+
     {
         title: "Nike",
         description: "Force bicolor",
@@ -1117,7 +1117,7 @@ const products = [
         productId: 132,
         category: "nacionales"
     },
-   
+
     /* ----------------------------------------- */
     {
         title: "Nike",
@@ -1145,7 +1145,7 @@ const products = [
         category: "nacionales"
     },
     /* ------------------------------------------ */
-   
+
     {
         title: "Vans",
         description: "Clasica",
@@ -1346,7 +1346,7 @@ const products = [
         productId: 162,
         category: "kids"
     },
-   
+
     {
         title: "New Balance",
         description: "kids",
@@ -1488,7 +1488,7 @@ function renderProducts() {
         const productDiv = document.createElement("div");
         productDiv.classList.add("product");
         productDiv.dataset.index = index;
-        
+
         const img = document.createElement("img");
         img.src = product.img;
         img.alt = product.title;
@@ -1503,31 +1503,29 @@ function renderProducts() {
         whatsapp.href = product.whatsapp;
 
         const whatsappButton = document.createElement("img");
-        whatsappButton.src = './Images/logowhatsapp.webp'; // Coloca aquí la URL del logotipo de WhatsApp
+        whatsappButton.src = './Images/logowhatsapp.webp';
         whatsappButton.alt = "WhatsApp";
         whatsappButton.style.width = "40px";
         whatsappButton.style.height = "40px";
 
-        const divWhatsapp = document.createElement("div");
-        // Agregar elementos al div de productos
+        const whatsappText = document.createElement("span");
+        whatsappText.textContent = "Consúltanos a nuestro WhatsApp ";
+
+        whatsapp.appendChild(whatsappText);
+        whatsapp.appendChild(whatsappButton);
+
         productDiv.appendChild(img);
         productDiv.appendChild(title);
         productDiv.appendChild(description);
-        whatsapp.appendChild(whatsappButton);
-        divWhatsapp.appendChild(whatsapp);
-        productDiv.appendChild(divWhatsapp);
+        productDiv.appendChild(whatsapp);
 
-        // Agregar el div del producto al contenedor principal
-        contentProducts.appendChild(productDiv);
-
-        // Agregar un manejador de eventos al div del producto para cambiar el estado del checkbox
         productDiv.addEventListener("click", () => {
             window.location.href = `./pages/product.html?productId=${index}`;
             console.log(`Clic en el producto ${index}`);
-            // Puedes agregar aquí la lógica adicional que necesites
         });
+
+        contentProducts.appendChild(productDiv);
     });
 }
 
-// Llamada a la función renderProducts
 document.addEventListener("DOMContentLoaded", renderProducts);

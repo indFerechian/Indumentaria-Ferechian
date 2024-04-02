@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // Función para obtener el producto por su id
 function getProductById(productId) {
-    
+
     const products = [
         {
             title: "Adidas",
@@ -201,7 +201,7 @@ function getProductById(productId) {
             productId: 23,
             category: "Adidas"
         },
-        
+
         {
             title: "Adidas",
             description: "Adidas Campus PREMIUM🔥🇧🇷",
@@ -930,7 +930,7 @@ function getProductById(productId) {
             productId: 108,
             category: "nacionales"
         },
-        
+
         /* ---------------------------------------------------------------- */
         {
             title: "Nike",
@@ -1124,7 +1124,7 @@ function getProductById(productId) {
             category: "nacionales"
         },
         /* ------------------------------------- */
-        
+
         {
             title: "Nike",
             description: "Force bicolor",
@@ -1133,7 +1133,7 @@ function getProductById(productId) {
             productId: 132,
             category: "nacionales"
         },
-       
+
         /* ----------------------------------------- */
         {
             title: "Nike",
@@ -1161,7 +1161,7 @@ function getProductById(productId) {
             category: "nacionales"
         },
         /* ------------------------------------------ */
-       
+
         {
             title: "Vans",
             description: "Clasica",
@@ -1362,7 +1362,7 @@ function getProductById(productId) {
             productId: 162,
             category: "kids"
         },
-       
+
         {
             title: "New Balance",
             description: "kids",
@@ -1516,7 +1516,7 @@ function renderProduct(product) {
 
     const description = document.createElement("p");
     description.textContent = product.description;
-    
+
     const category = document.createElement("p");
     category.textContent = product.category;
 
@@ -1526,14 +1526,19 @@ function renderProduct(product) {
     const whatsappButton = document.createElement("img");
     whatsappButton.src = "../Images/logowhatsapp.webp";
     whatsappButton.alt = "WhatsApp";
-    whatsappButton.style.width = "50px"; 
-    whatsappButton.style.height = "50px"; 
+    whatsappButton.style.width = "50px";
+    whatsappButton.style.height = "50px";
+    const whatsappText = document.createElement("span");
+    whatsappText.textContent = "Consúltanos a nuestro WhatsApp";
 
+    
     // Agregar elementos al contenedor del producto
     productContainer.appendChild(productDiv);
+    whatsapp.appendChild(whatsappText);
     productDiv.appendChild(img);
     productDiv.appendChild(title);
     productDiv.appendChild(description);
     whatsapp.appendChild(whatsappButton);
     productDiv.appendChild(whatsapp);
+
 }

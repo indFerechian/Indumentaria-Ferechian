@@ -298,14 +298,16 @@ function renderProducts() {
         whatsappButton.style.width = "40px";
         whatsappButton.style.height = "40px";
 
-        const divWhatsapp = document.createElement("div");
-        // Agregar elementos al div de productos
+        const whatsappText = document.createElement("span");
+        whatsappText.textContent = "Consúltanos a nuestro WhatsApp";
+
+        whatsapp.appendChild(whatsappText);
+        whatsapp.appendChild(whatsappButton);
+
         productDiv.appendChild(img);
         productDiv.appendChild(title);
         productDiv.appendChild(description);
-        whatsapp.appendChild(whatsappButton);
-        divWhatsapp.appendChild(whatsapp);
-        productDiv.appendChild(divWhatsapp);
+        productDiv.appendChild(whatsapp);
 
         // Agregar el div del producto al contenedor principal
         contentProducts.appendChild(productDiv);
