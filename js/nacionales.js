@@ -3,7 +3,7 @@ const products = [
         title: "Adidas",
         description: "Flacon base goma super livianas 🇦🇷",
         img: "../Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 91,
         category: "nacionales"
     },
@@ -11,7 +11,7 @@ const products = [
         title: "Adidas",
         description: "Flacon base goma super livianas 🇦🇷",
         img: "../Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 92,
         category: "nacionales"
     },
@@ -19,7 +19,7 @@ const products = [
         title: "Adidas",
         description: "Flacon base goma super livianas 🇦🇷",
         img: "../Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 93,
         category: "nacionales"
     },
@@ -27,7 +27,7 @@ const products = [
         title: "Adidas",
         description: "Flacon base goma super livianas 🇦🇷",
         img: "../Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 94,
         category: "nacionales"
     },
@@ -35,7 +35,7 @@ const products = [
         title: "Adidas",
         description: "Flacon base goma super livianas 🇦🇷",
         img: "../Images/products/Nacionales/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷/ADIDAS-FALCON-BASE-GOMA-SUPERLIVIANAS🇦🇷5.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 95,
         category: "nacionales"
     },
@@ -44,7 +44,7 @@ const products = [
         title: "Adidas",
         description: "Nizza",
         img: "../Images/products/Nacionales/ADIDAS-NIZZA/ADIDAS-NIZZA.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 96,
         category: "nacionales"
     },
@@ -52,7 +52,7 @@ const products = [
         title: "Adidas",
         description: "Nizza",
         img: "../Images/products/Nacionales/ADIDAS-NIZZA/ADIDAS-NIZZA2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 97,
         category: "nacionales"
     },
@@ -60,7 +60,7 @@ const products = [
         title: "Adidas",
         description: "Nizza",
         img: "../Images/products/Nacionales/ADIDAS-NIZZA/ADIDAS-NIZZA3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 98,
         category: "nacionales"
     },
@@ -69,7 +69,7 @@ const products = [
         title: "Adidas",
         description: "Runner base de goma",
         img: "../Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 99,
         category: "nacionales"
     },
@@ -77,7 +77,7 @@ const products = [
         title: "Adidas",
         description: "Runner base de goma",
         img: "../Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 100,
         category: "nacionales"
     },
@@ -85,7 +85,7 @@ const products = [
         title: "Adidas",
         description: "Runner base de goma",
         img: "../Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 101,
         category: "nacionales"
     },
@@ -93,7 +93,7 @@ const products = [
         title: "Adidas",
         description: "Runner base de goma",
         img: "../Images/products/Nacionales/ADIDAS-RUNNER-BASEDEGOMA🇦🇷/ADIDAS-RUNNER-BASEDEGOMA🇦🇷5.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 102,
         category: "nacionales"
     },
@@ -102,7 +102,7 @@ const products = [
         title: "Nike",
         description: "Air force bicolor nacional",
         img: "../Images/products/Nacionales/AIR-FORCE-BICOLOR-NACIONAL/AIR-FORCE-BICOLOR-NACIONAL.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 103,
         category: "nacionales"
     },
@@ -110,7 +110,7 @@ const products = [
         title: "Nike",
         description: "Air force bicolor nacional",
         img: "../Images/products/Nacionales/AIR-FORCE-BICOLOR-NACIONAL/AIR-FORCE-BICOLOR-NACIONAL2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 104,
         category: "nacionales"
     },
@@ -118,7 +118,7 @@ const products = [
         title: "Nike",
         description: "Air force bicolor nacional",
         img: "../Images/products/Nacionales/AIR-FORCE-BICOLOR-NACIONAL/AIR-FORCE-BICOLOR-NACIONAL3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 105,
         category: "nacionales"
     },
@@ -127,7 +127,7 @@ const products = [
         title: "Nike",
         description: "Air force nacional",
         img: "../Images/products/Nacionales/AIR-FORCE-NACIONAL🇦🇷/AIR-FORCE-NACIONAL🇦🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 106,
         category: "nacionales"
     },
@@ -135,7 +135,7 @@ const products = [
         title: "Nike",
         description: "Air force nacional",
         img: "../Images/products/Nacionales/AIR-FORCE-NACIONAL🇦🇷/AIR-FORCE-NACIONAL🇦🇷4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 107,
         category: "nacionales"
     },
@@ -143,7 +143,7 @@ const products = [
         title: "Nike",
         description: "Air force nacional",
         img: "../Images/products/Nacionales/AIR-FORCE-NACIONAL🇦🇷/AIR-FORCE-NACIONAL🇦🇷5.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 108,
         category: "nacionales"
     },
@@ -153,7 +153,7 @@ const products = [
         title: "Nike",
         description: "Air force TM nacional",
         img: "../Images/products/Nacionales/AIR-FORCE-TM-NACIONAL🇦🇷/AIR-FORCE-TM-NACIONAL🇦🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 109,
         category: "nacionales"
     },
@@ -161,7 +161,7 @@ const products = [
         title: "Nike",
         description: "Air force TM nacional",
         img: "../Images/products/Nacionales/AIR-FORCE-TM-NACIONAL🇦🇷/AIR-FORCE-TM-NACIONAL🇦🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 110,
         category: "nacionales"
     },
@@ -169,7 +169,7 @@ const products = [
         title: "Nike",
         description: "Air force TM nacional",
         img: "../Images/products/Nacionales/AIR-FORCE-TM-NACIONAL🇦🇷/AIR-FORCE-TM-NACIONAL🇦🇷3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 111,
         category: "nacionales"
     },
@@ -178,7 +178,7 @@ const products = [
         title: "Alexander mac queen",
         description: "Alexander mac queen",
         img: "../Images/products/Nacionales/ALEXANDER-MAC-QUEEN/ALEXANDER-MAC-QUEEN.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 112,
         category: "nacionales"
     },
@@ -186,7 +186,7 @@ const products = [
         title: "Alexander mac queen",
         description: "Alexander mac queen",
         img: "../Images/products/Nacionales/ALEXANDER-MAC-QUEEN/ALEXANDER-MAC-QUEEN2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 113,
         category: "nacionales"
     },
@@ -194,7 +194,7 @@ const products = [
         title: "Alexander mac queen",
         description: "Alexander mac queen",
         img: "../Images/products/Nacionales/ALEXANDER-MAC-QUEEN/ALEXANDER-MAC-QUEEN3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 114,
         category: "nacionales"
     },
@@ -202,7 +202,7 @@ const products = [
         title: "Alexander mac queen",
         description: "Alexander mac queen",
         img: "../Images/products/Nacionales/ALEXANDER-MAC-QUEEN/ALEXANDER-MAC-QUEEN4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 115,
         category: "nacionales"
     },
@@ -210,7 +210,7 @@ const products = [
         title: "converse",
         description: "Alexander mac queen",
         img: "../Images/products/Nacionales/ALEXANDER-MAC-QUEEN/ALEXANDER-MAC-QUEEN5.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 116,
         category: "nacionales"
     },
@@ -219,7 +219,7 @@ const products = [
         title: "converse",
         description: "Bota converse plataforma",
         img: "../Images/products/Nacionales/BOTA-CONVERSE-PLATAFORMA/BOTA-CONVERSE-PLATAFORMA.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 117,
         category: "nacionales"
     },
@@ -227,7 +227,7 @@ const products = [
         title: "Converse",
         description: "Bota converse plataforma",
         img: "../Images/products/Nacionales/BOTA-CONVERSE-PLATAFORMA/BOTA-CONVERSE-PLATAFORMA2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 118,
         category: "nacionales"
     },
@@ -236,7 +236,7 @@ const products = [
         title: "Nike",
         description: "bota force",
         img: "../Images/products/Nacionales/BOTA-FORCE/BOTA-FORCE.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 119,
         category: "nacionales"
     },
@@ -245,7 +245,7 @@ const products = [
         title: "Vans",
         description: "bota",
         img: "../Images/products/Nacionales/BOTA-VANS/BOTA-VANS.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 120,
         category: "nacionales"
     },
@@ -253,7 +253,7 @@ const products = [
         title: "Vans",
         description: "bota",
         img: "../Images/products/Nacionales/BOTA-VANS/BOTA-VANS2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 121,
         category: "nacionales"
     },
@@ -261,7 +261,7 @@ const products = [
         title: "Vans",
         description: "bota",
         img: "../Images/products/Nacionales/BOTA-VANS/BOTA-VANS3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 122,
         category: "nacionales"
     },
@@ -270,7 +270,7 @@ const products = [
         title: "Converse",
         description: "Bajas clasicas",
         img: "../Images/products/Nacionales/CONVERSE-BAJAS-CLASICAS🇦🇷/CONVERSE-BAJAS-CLASICAS🇦🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 123,
         category: "nacionales"
     },
@@ -278,7 +278,7 @@ const products = [
         title: "Converse",
         description: "Bajas clasicas",
         img: "../Images/products/Nacionales/CONVERSE-BAJAS-CLASICAS🇦🇷/CONVERSE-BAJAS-CLASICAS🇦🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 124,
         category: "nacionales"
     },
@@ -286,7 +286,7 @@ const products = [
         title: "Converse",
         description: "Bajas clasicas",
         img: "../Images/products/Nacionales/CONVERSE-BAJAS-CLASICAS🇦🇷/CONVERSE-BAJAS-CLASICAS🇦🇷3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 125,
         category: "nacionales"
     },
@@ -294,7 +294,7 @@ const products = [
         title: "Converse",
         description: "Bajas clasicas",
         img: "../Images/products/Nacionales/CONVERSE-BAJAS-CLASICAS🇦🇷/CONVERSE-BAJAS-CLASICAS🇦🇷4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 126,
         category: "nacionales"
     },
@@ -303,7 +303,7 @@ const products = [
         title: "Converse",
         description: "Plataforma",
         img: "../Images/products/Nacionales/CONVERSE-PLATAFORMAS-BLANCA-Y-NEGRAS/CONVERSE-PLATAFORMAS-BLANCA-Y-NEGRAS.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 127,
         category: "nacionales"
     },
@@ -311,7 +311,7 @@ const products = [
         title: "Converse",
         description: "Plataforma",
         img: "../Images/products/Nacionales/CONVERSE-PLATAFORMAS-BLANCA-Y-NEGRAS/CONVERSE-PLATAFORMAS-BLANCA-Y-NEGRAS2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 128,
         category: "nacionales"
     },
@@ -319,7 +319,7 @@ const products = [
         title: "Converse",
         description: "Plataforma",
         img: "../Images/products/Nacionales/CONVERSE-PLATAFORMAS-BLANCA-Y-NEGRAS/CONVERSE-PLATAFORMAS-BLANCA-Y-NEGRAS3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 129,
         category: "nacionales"
     },
@@ -327,7 +327,7 @@ const products = [
         title: "Converse",
         description: "Plataforma",
         img: "../Images/products/Nacionales/CONVERSE-PLATAFORMAS-BLANCA-Y-NEGRAS/CONVERSE-PLATAFORMAS-BLANCA-Y-NEGRAS4.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 130,
         category: "nacionales"
     },
@@ -336,7 +336,7 @@ const products = [
         title: "Converse",
         description: "Bajas",
         img: "../Images/products/Nacionales/Converse-yellow/Converse-yellow.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 131,
         category: "nacionales"
     },
@@ -346,7 +346,7 @@ const products = [
         title: "Nike",
         description: "Force bicolor",
         img: "../Images/products/Nacionales/FORCE-BICOLOR-NACIONAL🇦🇷/FORCE-BICOLOR-NACIONAL🇦🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 132,
         category: "nacionales"
     },
@@ -356,7 +356,7 @@ const products = [
         title: "Nike",
         description: "Tree camera",
         img: "../Images/products/Nacionales/NIKE-TREE-CAMARA-NACIONAL🇦🇷/NIKE-TREE-CAMARA-NACIONAL🇦🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 133,
         category: "nacionales"
     },
@@ -364,7 +364,7 @@ const products = [
         title: "Nike",
         description: "Tree camera",
         img: "../Images/products/Nacionales/NIKE-TREE-CAMARA-NACIONAL🇦🇷/NIKE-TREE-CAMARA-NACIONAL🇦🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 134,
         category: "nacionales"
     },
@@ -373,7 +373,7 @@ const products = [
         title: "Puma",
         description: "Clasica",
         img: "../Images/products/Nacionales/PUMA-CLASICA🤍🇦🇷/PUMA-CLASICA🤍🇦🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 135,
         category: "nacionales"
     },
@@ -383,7 +383,7 @@ const products = [
         title: "Vans",
         description: "Clasica",
         img: "../Images/products/Nacionales/VANS-NACIONALES🇦🇷/VANS-NACIONALES🇦🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 136,
         category: "nacionales"
     },
@@ -391,7 +391,7 @@ const products = [
         title: "Vans",
         description: "Clasica",
         img: "../Images/products/Nacionales/VANS-NACIONALES🇦🇷/VANS-NACIONALES🇦🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 137,
         category: "nacionales"
     },
@@ -399,7 +399,7 @@ const products = [
         title: "Vans",
         description: "Clasica",
         img: "../Images/products/Nacionales/VANS-NACIONALES🇦🇷/VANS-NACIONALES🇦🇷3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=1133112388=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
+        whatsapp: 'https://api.whatsapp.com/send?phone=+541133112388&text=Hola,%20quiero%20saber%20más%20sobre%20este%20producto.',
         productId: 138,
         category: "nacionales"
     },
