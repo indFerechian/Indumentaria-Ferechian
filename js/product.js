@@ -1514,7 +1514,7 @@ function renderProduct(product) {
     category.textContent = product.category;
 
     const whatsapp = document.createElement("a");
-        whatsapp.href = `${product.whatsapp}&text=${encodeURIComponent("Hola Ind. Ferechian, quiero saber que talles tenes en stock y que colores de este par : " + product.title + " " + product.description)}`;
+        whatsapp.href = `${product.whatsapp}&text=${encodeURIComponent("Hola Ind. Ferechian, quiero saber que talles y que colores tenes en stock de este par : " + product.title + " " + product.description)}`;
 
     const whatsappButton = document.createElement("img");
     whatsappButton.classList.add("whatsappButton");
