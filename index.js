@@ -7,7 +7,6 @@ const products = [
         productId: 1,
         category: "Adidas"
     },
-
     {
         title: "Adidas",
         description: "Bad Bunny",
@@ -476,7 +475,7 @@ const products = [
     {
         title: "Nike Air",
         description: "Force One PREMIUM",
-        img: "./Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PIPA-VERDE-💚/AIRFORCEPIPAVERDE💚.png",
+        img: "./Images/products/Nike-Air-Force-premium-BR/AIRFORCEPIPAVERDE💚/AIRFORCEPIPAVERDE💚.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 58,
         category: "nikeAir"

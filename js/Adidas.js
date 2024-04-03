@@ -339,7 +339,8 @@ function renderProducts() {
         contentProducts.appendChild(productDiv);
 
         productDiv.addEventListener("click", () => {
-            window.location.href = `./product.html?productId=${index}`;
+            
+            window.location.href = `./product.html?productId=${product.productId - 1}`;
             console.log(`Clic en el producto ${index}`);
         });
     });

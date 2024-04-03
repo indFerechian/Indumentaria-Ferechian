@@ -159,7 +159,16 @@ const products = [
     {
         title: "Nike Air",
         description: "Force One PREMIUM",
-        img: "../Images/products/Nike-Air-Force-premium-BR/AIRFORCEPIPACELESTEPREMIUM🇧🇷/AIRFORCEPIPACELESTEPREMIUM🇧🇷.png",
+        img: "../Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PIPA-CELESTE-PREMIUM-🇧🇷/AIR-FORCE-PIPA-CELESTE-PREMIUM-🇧🇷.png",
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
+        productId: 55,
+        category: "nikeAir"
+    },
+    /* ----------------------------------------------------------- */
+    {
+        title: "Nike Air",
+        description: "Force One PREMIUM",
+        img: "../Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PIPA-CELESTE-PREMIUM-🇧🇷/AIR-FORCE-PIPA-CELESTE-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 56,
         category: "nikeAir"
@@ -168,7 +177,7 @@ const products = [
     {
         title: "Nike Air",
         description: "Force One PREMIUM",
-        img: "../Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PIPA-CELESTE-PREMIUM-🇧🇷/AIR-FORCE-PIPA-CELESTE-PREMIUM-🇧🇷.png",
+        img: "../Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PIPA-VERDE-💚/AIRFORCEPIPAVERDE💚2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 57,
         category: "nikeAir"
@@ -177,7 +186,7 @@ const products = [
     {
         title: "Nike Air",
         description: "Force One PREMIUM",
-        img: "../Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PIPA-VERDE-💚/AIR-FORCE-PIPA-VERDE-💚.png",
+        img: "../Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PREMIUM-BLANCA-PIPA-LILA-🇧🇷/AIR-FORCE-PREMIUM-BLANCA-PIPA-LILA-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 58,
         category: "nikeAir"
@@ -186,18 +195,9 @@ const products = [
     {
         title: "Nike Air",
         description: "Force One PREMIUM",
-        img: "../Images/products/Nike-Air-Force-premium-BR/AIR-FORCE-PREMIUM-BLANCA-PIPA-LILA-🇧🇷/AIR-FORCE-PREMIUM-BLANCA-PIPA-LILA-🇧🇷.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 59,
-        category: "nikeAir"
-    },
-    /* ----------------------------------------------------------- */
-    {
-        title: "Nike Air",
-        description: "Force One PREMIUM",
         img: "../Images/products/Nike-Air-Force-premium-BR/FORCE-IMPORTADA-PREMIUM-🇧🇷/FORCE-IMPORTADA-PREMIUM-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 60,
+        productId: 59,
         category: "nikeAir"
     },
 ];
@@ -253,7 +253,7 @@ function renderProducts() {
 
         // Agregar un manejador de eventos al div del producto para cambiar el estado del checkbox
         productDiv.addEventListener("click", () => {
-            window.location.href = `./product.html?productId=${index}`;
+            window.location.href = `./product.html?productId=${product.productId -1}`;
             console.log(`Clic en el producto ${index}`);
             // Puedes agregar aquí la lógica adicional que necesites
         });

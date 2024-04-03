@@ -147,7 +147,7 @@ const products = [
         description: "Botitas kids",
         img: "../Images/products/Modelos-Kids-BR-AR/JORDAN-BOTITA-KIDS/JORDAN-BOTITA-KIDS2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 159,
+        productId: 158,
         category: "kids"
     },
     {
@@ -155,7 +155,7 @@ const products = [
         description: "Botitas kids",
         img: "../Images/products/Modelos-Kids-BR-AR/JORDAN-BOTITA-KIDS/JORDAN-BOTITA-KIDS3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 160,
+        productId: 159,
         category: "kids"
     },
     {
@@ -163,7 +163,7 @@ const products = [
         description: "Botitas kids",
         img: "../Images/products/Modelos-Kids-BR-AR/JORDAN-BOTITA-KIDS/JORDAN-BOTITA-KIDS4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 161,
+        productId: 160,
         category: "kids"
     },
     /* --------------------------------- */
@@ -172,7 +172,7 @@ const products = [
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/NEW-BALANCE-BEBE-ABROJO-PREMIUM/NEW-BALANCE-BEBE-ABROJO-PREMIUM.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 162,
+        productId: 161,
         category: "kids"
     },
    
@@ -181,7 +181,7 @@ const products = [
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/NEW-BALANCE-BEBE-ABROJO-PREMIUM/NEW-BALANCE-BEBE-ABROJO-PREMIUM2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 163,
+        productId: 162,
         category: "kids"
     },
     {
@@ -189,7 +189,7 @@ const products = [
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/NEW-BALANCE-KIDS-AZUL-Y-ROSA/NEW-BALANCE-KIDS-AZUL-Y-ROSA.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 164,
+        productId: 163,
         category: "kids"
     },
     {
@@ -197,7 +197,7 @@ const products = [
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/NEW-BALANCE-KIDS-AZUL-Y-ROSA/NEW-BALANCE-KIDS-AZUL-Y-ROSA2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 165,
+        productId: 164,
         category: "kids"
     },
     /* ---------------------------------------- */
@@ -206,7 +206,7 @@ const products = [
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/PUMITA-KIDS/PUMITA-KIDS.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 166,
+        productId: 165,
         category: "kids"
     },
     {
@@ -214,7 +214,7 @@ const products = [
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/PUMITA-KIDS/PUMITA-KIDS2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 167,
+        productId: 166,
         category: "kids"
     },
     {
@@ -222,7 +222,7 @@ const products = [
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/PUMITA-KIDS/PUMITA-KIDS3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 168,
+        productId: 167,
         category: "kids"
     },
     {
@@ -230,7 +230,7 @@ const products = [
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/PUMITA-KIDS/PUMITA-KIDS4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 169,
+        productId: 168,
         category: "kids"
     },
     /* ----------------------------------------- */
@@ -239,7 +239,7 @@ const products = [
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 170,
+        productId: 169,
         category: "kids"
     },
     {
@@ -247,7 +247,7 @@ const products = [
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 171,
+        productId: 170,
         category: "kids"
     },
     {
@@ -255,7 +255,7 @@ const products = [
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 172,
+        productId: 171,
         category: "kids"
     },
     {
@@ -263,7 +263,7 @@ const products = [
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 173,
+        productId: 172,
         category: "kids"
     },
     {
@@ -271,7 +271,7 @@ const products = [
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS5.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 174,
+        productId: 173,
         category: "kids"
     },
     {
@@ -279,7 +279,7 @@ const products = [
         description: "SB kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SB-KIDS-IMPORTADAS/SB-KIDS-IMPORTADAS6.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 175,
+        productId: 174,
         category: "kids"
     },
     /* ----------------------------------------- */
@@ -288,7 +288,7 @@ const products = [
         description: "Air kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SHADOW-KIDS/SHADOW-KIDS2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 176,
+        productId: 175,
         category: "kids"
     },
     {
@@ -296,7 +296,7 @@ const products = [
         description: "Air kids",
         img: "../Images/products/Modelos-Kids-BR-AR/SHADOW-KIDS/SHADOW-KIDS4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 177,
+        productId: 176,
         category: "kids"
     },
     /* -------------------------------- */
@@ -305,7 +305,7 @@ const products = [
         description: "kids",
         img: "../Images/products/Modelos-Kids-BR-AR/VANS-NACIONALES-KIDS/VANS-NACIONALES-KIDS2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 178,
+        productId: 177,
         category: "kids"
     },
    
@@ -361,7 +361,7 @@ function renderProducts() {
 
         // Agregar un manejador de eventos al div del producto para cambiar el estado del checkbox
         productDiv.addEventListener("click", () => {
-            window.location.href = `./product.html?productId=${index}`;
+            window.location.href = `./product.html?productId=${product.productId - 2}`;
             console.log(`Clic en el producto ${index}`);
             // Puedes agregar aquí la lógica adicional que necesites
         });

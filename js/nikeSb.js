@@ -24,20 +24,13 @@ const products = [
         productId: 63,
         category: "nikeSb"
     },
-    {
-        title: "Nike SB",
-        description: "Blow",
-        img: "../Images/products/Nike-SB-Low-Premium/NIKES-BLOW-🌈/NIKES-BLOW-🌈3.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 64,
-        category: "nikeSb"
-    },
+    
     {
         title: "Nike SB",
         description: "Blow",
         img: "../Images/products/Nike-SB-Low-Premium/NIKES-BLOW-🌈/NIKES-BLOW-🌈4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 65,
+        productId: 64,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -46,7 +39,7 @@ const products = [
         description: "",
         img: "../Images/products/Nike-SB-Low-Premium/SB-BORDO-CON-ROJO-IMPORTADAS-PREMIUM-🇧🇷/SB-BORDO-CON-ROJO-IMPORTADAS-PREMIUM-🇧🇷4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 66,
+        productId: 65,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -55,7 +48,7 @@ const products = [
         description: "",
         img: "../Images/products/Nike-SB-Low-Premium/SB-BORDO-🇧🇷/SB-BORDO-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 67,
+        productId: 66,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -64,7 +57,7 @@ const products = [
         description: "",
         img: "../Images/products/Nike-SB-Low-Premium/SB-BORDO-PREMIUM-🇧🇷/SB-BORDO-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 68,
+        productId: 67,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -73,7 +66,7 @@ const products = [
         description: "",
         img: "../Images/products/Nike-SB-Low-Premium/SB-CHAROL-AZUL-💙-PREMIUM-🇧🇷/SB-CHAROL-AZUL-💙-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 69,
+        productId: 68,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -82,7 +75,7 @@ const products = [
         description: "Glitter PREMIUM",
         img: "../Images/products/Nike-SB-Low-Premium/SB-GLITTER-BEIGE-PREMIUM-🔥-🇧🇷/SB-GLITTER-BEIGE-PREMIUM-🔥-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 70,
+        productId: 69,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -90,6 +83,15 @@ const products = [
         title: "Nike SB",
         description: "Glitter PREMIUM BR",
         img: "../Images/products/Nike-SB-Low-Premium/SB-GLITTER-JEANS-PREMIUM-🇧🇷/SB-GLITTER-JEANS-PREMIUM-🇧🇷.png",
+        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
+        productId: 70,
+        category: "nikeSb"
+    },
+    /* ----------------------------------------------------------- */
+    {
+        title: "Nike SB",
+        description: "PREMIUM",
+        img: "../Images/products/Nike-SB-Low-Premium/SB-GRIS-PREMIUM-🇧🇷/SB-GRIS-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
         productId: 71,
         category: "nikeSb"
@@ -106,19 +108,10 @@ const products = [
     /* ----------------------------------------------------------- */
     {
         title: "Nike SB",
-        description: "PREMIUM",
-        img: "../Images/products/Nike-SB-Low-Premium/SB-GRIS-PREMIUM-🇧🇷/SB-GRIS-PREMIUM-🇧🇷2.png",
-        whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 73,
-        category: "nikeSb"
-    },
-    /* ----------------------------------------------------------- */
-    {
-        title: "Nike SB",
         description: "IMPORTADAS BR",
         img: "../Images/products/Nike-SB-Low-Premium/SB-importadas-🇧🇷/SB-importadas-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 74,
+        productId: 73,
         category: "nikeSb"
     },
     {
@@ -126,7 +119,7 @@ const products = [
         description: "IMPORTADAS BR",
         img: "../Images/products/Nike-SB-Low-Premium/SB-importadas-🇧🇷/SB-importadas-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 75,
+        productId: 74,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -135,7 +128,7 @@ const products = [
         description: "IMPORTADAS BR",
         img: "../Images/products/Nike-SB-Low-Premium/SB-LILA-PREMIUM-🇧🇷/SB-LILA-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 76,
+        productId: 75,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -144,7 +137,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-CHAROL-PREMIUM-🇧🇷/SB-lOW-CHAROL-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 77,
+        productId: 76,
         category: "nikeSb"
     },
     {
@@ -152,7 +145,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-CHAROL-PREMIUM-🇧🇷/SB-lOW-CHAROL-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 78,
+        productId: 77,
         category: "nikeSb"
     },
     {
@@ -160,7 +153,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-CHAROL-PREMIUM-🇧🇷/SB-lOW-CHAROL-PREMIUM-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 79,
+        productId: 78,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -169,7 +162,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-GRIS-IMPORTADAS-PREMIUM-🔥-💯/SB-lOW-GRIS-IMPORTADAS-PREMIUM-🔥-💯2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 80,
+        productId: 79,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -178,7 +171,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 81,
+        productId: 80,
         category: "nikeSb"
     },
     {
@@ -186,7 +179,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷/SB-lOW-IMPORTADAS-PREMIUM-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 82,
+        productId: 81,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -195,7 +188,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-IMPORTADAS-🇧🇷/SB-lOW-IMPORTADAS-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 83,
+        productId: 82,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -204,7 +197,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-LOW-NEGRA-CON-ROJO-🇧🇷/SB-LOW-NEGRA-CON-ROJO-🇧🇷4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 84,
+        productId: 83,
         category: "nikeSb"
     },
     {
@@ -212,7 +205,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-LOW-NEGRA-CON-ROJO-🇧🇷/SB-LOW-NEGRA-CON-ROJO-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 85,
+        productId: 84,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -221,7 +214,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-lOW-💗-IMPORTADAS-PREMIUM-🔥-🇧🇷/SB-lOW-💗-IMPORTADAS-PREMIUM-🔥-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 86,
+        productId: 85,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -230,7 +223,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-PANDA-PREMIUM-🇧🇷/SB-PANDA-PREMIUM-🇧🇷3.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 87,
+        productId: 86,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -239,7 +232,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-PLATEADA-PREMIUM-🇧🇷/SB-PLATEADA-PREMIUM-🇧🇷.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 88,
+        productId: 87,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -248,7 +241,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-TOTAL-WHITE-🤍/SB-TOTAL-WHITE-🤍.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 89,
+        productId: 88,
         category: "nikeSb"
     },
     /* ----------------------------------------------------------- */
@@ -257,7 +250,7 @@ const products = [
         description: "Low",
         img: "../Images/products/Nike-SB-Low-Premium/SB-VERDE-💚-CON-NEGRO-PREMIUM-🇧🇷/SB-VERDE-💚-CON-NEGRO-PREMIUM-🇧🇷2.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 90,
+        productId: 89,
         category: "nikeSb"
     },
     
@@ -314,7 +307,7 @@ function renderProducts() {
 
         // Agregar un manejador de eventos al div del producto para cambiar el estado del checkbox
         productDiv.addEventListener("click", () => {
-            window.location.href = `./product.html?productId=${index}`;
+            window.location.href = `./product.html?productId=${product.productId - 2}`;
             console.log(`Clic en el producto ${index}`);
             // Puedes agregar aquí la lógica adicional que necesites
         });
