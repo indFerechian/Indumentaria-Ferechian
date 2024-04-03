@@ -35,6 +35,7 @@
         background-color: black;
         flex-wrap: nowrap;
         text-align: center;
+        
     }
     .product,h2,p,a {
         display: flex;
@@ -73,6 +74,7 @@
         justify-content: center;
         align-items: center;
         flex-wrap: nowrap;
+        box-shadow: 1px 1px 8px red;
     }
 
     .product img {
