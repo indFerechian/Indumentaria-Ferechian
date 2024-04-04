@@ -4,7 +4,7 @@ const products = [
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/ADIDAS-KIDS/ADIDAS-KIDS.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 140,
+        productId: 141,
         category: "kids"
     },
     {
@@ -12,7 +12,7 @@ const products = [
         description: "Kids",
         img: "../Images/products/Modelos-Kids-BR-AR/ADIDAS-KIDS/ADIDAS-KIDS4.png",
         whatsapp: 'https://api.whatsapp.com/send?phone=+5491154950479',
-        productId: 141,
+        productId: 142,
         category: "kids"
     },
     {
@@ -361,7 +361,7 @@ function renderProducts() {
 
         // Agregar un manejador de eventos al div del producto para cambiar el estado del checkbox
         productDiv.addEventListener("click", () => {
-            window.location.href = `./product.html?productId=${product.productId - 2}`;
+            window.location.href = `./product.html?productId=${product.productId - 4}`;
             console.log(`Clic en el producto ${index}`);
             // Puedes agregar aquí la lógica adicional que necesites
         });
