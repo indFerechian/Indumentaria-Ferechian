@@ -210,10 +210,9 @@ html {
         align-items: center;
         z-index: 10;
         box-shadow: 5px 5px 5px red;
-        /* Estilos por defecto para el producto */
         border: 1px solid #ccc;
         padding: 10px;
-        transition: transform 0.3s; /* Agregamos una transición para suavizar el cambio */
+        transition: transform 0.3s; 
     }
     .product img {
         overflow: hidden;
@@ -252,16 +251,16 @@ html {
         align-items: center;
         z-index: 10;
 
-        /* Estilos por defecto para el producto */
         border: 1px solid red;
         padding: 10px;
         margin: 5px;
-        transition: transform 0.3s; /* Agregamos una transición para suavizar el cambio */
+        transition: transform 0.3s; 
     }
     .product img {
+        margin-top: 10px;
         overflow: hidden;
         height: 200px;
-        object-fit: cover; /* Esto mantendrá la relación de aspecto y recortará la imagen si es necesario */
+        object-fit: cover; 
     }
     .img__hamburguer {
         width: 100%;
@@ -288,12 +287,6 @@ html {
     }
 }
 
-/* mixin */
-/* -------------------------------------------- */
-
-/* Estilos por defecto para el producto */
-
-/* Efecto hover para el producto */
 .product.checked:hover {
     position: center;
     transform: scale(
